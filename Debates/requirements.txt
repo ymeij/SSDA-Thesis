@@ -1,0 +1,13 @@
+pandas
+black
+openpyxl
+
+# NLP
+
+ipywidgets
+nbformat
+nltk
+plotly
+pyLDAvis
+tensorflow
+transformers
