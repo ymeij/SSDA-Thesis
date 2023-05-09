@@ -1,0 +1,3817 @@
+published_date,newspaper_line,NEGATIVE,POSITIVE
+2021-11-01,Daily Mail and Mail on Sunday,0,0
+2021-11-01,Daily Mirror,0,0
+2021-11-01,Metro,1,0
+2021-11-01,The Daily Telegraph,0,0
+2021-11-01,The Guardian,1,0
+2021-11-01,The Independent,0,0
+2021-11-01,The Sun,1,1
+2021-11-01,The Times and The Sunday Times,2,0
+2021-11-02,Daily Mail and Mail on Sunday,2,0
+2021-11-02,Daily Mirror,0,0
+2021-11-02,Metro,1,0
+2021-11-02,The Daily Telegraph,1,0
+2021-11-02,The Guardian,0,1
+2021-11-02,The Independent,0,0
+2021-11-02,The Sun,0,0
+2021-11-02,The Times and The Sunday Times,1,0
+2021-11-03,Daily Mail and Mail on Sunday,1,0
+2021-11-03,Daily Mirror,0,0
+2021-11-03,Metro,1,0
+2021-11-03,The Daily Telegraph,0,0
+2021-11-03,The Guardian,0,0
+2021-11-03,The Independent,0,0
+2021-11-03,The Sun,0,0
+2021-11-03,The Times and The Sunday Times,1,0
+2021-11-04,Daily Mail and Mail on Sunday,0,0
+2021-11-04,Daily Mirror,0,0
+2021-11-04,Metro,1,1
+2021-11-04,The Daily Telegraph,0,0
+2021-11-04,The Guardian,3,0
+2021-11-04,The Independent,0,0
+2021-11-04,The Sun,0,0
+2021-11-04,The Times and The Sunday Times,1,0
+2021-11-05,Daily Mail and Mail on Sunday,0,0
+2021-11-05,Daily Mirror,1,0
+2021-11-05,Metro,1,0
+2021-11-05,The Daily Telegraph,0,0
+2021-11-05,The Guardian,1,1
+2021-11-05,The Independent,0,0
+2021-11-05,The Sun,1,0
+2021-11-05,The Times and The Sunday Times,1,0
+2021-11-06,Daily Mail and Mail on Sunday,0,0
+2021-11-06,Daily Mirror,0,0
+2021-11-06,Metro,0,0
+2021-11-06,The Daily Telegraph,3,0
+2021-11-06,The Guardian,0,0
+2021-11-06,The Independent,0,0
+2021-11-06,The Sun,0,0
+2021-11-06,The Times and The Sunday Times,1,0
+2021-11-07,Daily Mail and Mail on Sunday,0,0
+2021-11-07,Daily Mirror,0,1
+2021-11-07,Metro,0,0
+2021-11-07,The Daily Telegraph,0,0
+2021-11-07,The Guardian,0,0
+2021-11-07,The Independent,0,0
+2021-11-07,The Sun,0,0
+2021-11-07,The Times and The Sunday Times,0,0
+2021-11-08,Daily Mail and Mail on Sunday,0,0
+2021-11-08,Daily Mirror,0,0
+2021-11-08,Metro,0,0
+2021-11-08,The Daily Telegraph,0,0
+2021-11-08,The Guardian,0,0
+2021-11-08,The Independent,0,0
+2021-11-08,The Sun,0,0
+2021-11-08,The Times and The Sunday Times,0,0
+2021-11-09,Daily Mail and Mail on Sunday,0,0
+2021-11-09,Daily Mirror,1,0
+2021-11-09,Metro,1,0
+2021-11-09,The Daily Telegraph,1,0
+2021-11-09,The Guardian,1,0
+2021-11-09,The Independent,0,0
+2021-11-09,The Sun,2,1
+2021-11-09,The Times and The Sunday Times,1,0
+2021-11-10,Daily Mail and Mail on Sunday,0,0
+2021-11-10,Daily Mirror,0,0
+2021-11-10,Metro,3,0
+2021-11-10,The Daily Telegraph,0,0
+2021-11-10,The Guardian,1,1
+2021-11-10,The Independent,0,1
+2021-11-10,The Sun,1,0
+2021-11-10,The Times and The Sunday Times,1,0
+2021-11-11,Daily Mail and Mail on Sunday,0,1
+2021-11-11,Daily Mirror,0,0
+2021-11-11,Metro,0,0
+2021-11-11,The Daily Telegraph,0,1
+2021-11-11,The Guardian,1,0
+2021-11-11,The Independent,0,0
+2021-11-11,The Sun,0,0
+2021-11-11,The Times and The Sunday Times,0,0
+2021-11-12,Daily Mail and Mail on Sunday,0,0
+2021-11-12,Daily Mirror,0,0
+2021-11-12,Metro,1,0
+2021-11-12,The Daily Telegraph,1,0
+2021-11-12,The Guardian,1,0
+2021-11-12,The Independent,1,0
+2021-11-12,The Sun,2,0
+2021-11-12,The Times and The Sunday Times,1,1
+2021-11-13,Daily Mail and Mail on Sunday,0,0
+2021-11-13,Daily Mirror,0,0
+2021-11-13,Metro,0,0
+2021-11-13,The Daily Telegraph,1,0
+2021-11-13,The Guardian,0,0
+2021-11-13,The Independent,0,0
+2021-11-13,The Sun,0,0
+2021-11-13,The Times and The Sunday Times,1,1
+2021-11-14,Daily Mail and Mail on Sunday,0,0
+2021-11-14,Daily Mirror,0,1
+2021-11-14,Metro,0,0
+2021-11-14,The Daily Telegraph,0,0
+2021-11-14,The Guardian,1,0
+2021-11-14,The Independent,0,0
+2021-11-14,The Sun,0,1
+2021-11-14,The Times and The Sunday Times,0,1
+2021-11-15,Daily Mail and Mail on Sunday,0,0
+2021-11-15,Daily Mirror,0,0
+2021-11-15,Metro,0,0
+2021-11-15,The Daily Telegraph,0,0
+2021-11-15,The Guardian,0,0
+2021-11-15,The Independent,0,0
+2021-11-15,The Sun,1,0
+2021-11-15,The Times and The Sunday Times,0,0
+2021-11-16,Daily Mail and Mail on Sunday,0,0
+2021-11-16,Daily Mirror,0,0
+2021-11-16,Metro,1,0
+2021-11-16,The Daily Telegraph,0,0
+2021-11-16,The Guardian,2,2
+2021-11-16,The Independent,0,0
+2021-11-16,The Sun,0,0
+2021-11-16,The Times and The Sunday Times,1,0
+2021-11-17,Daily Mail and Mail on Sunday,0,0
+2021-11-17,Daily Mirror,0,0
+2021-11-17,Metro,0,0
+2021-11-17,The Daily Telegraph,1,0
+2021-11-17,The Guardian,1,0
+2021-11-17,The Independent,0,0
+2021-11-17,The Sun,0,0
+2021-11-17,The Times and The Sunday Times,2,0
+2021-11-18,Daily Mail and Mail on Sunday,0,0
+2021-11-18,Daily Mirror,0,0
+2021-11-18,Metro,0,0
+2021-11-18,The Daily Telegraph,0,0
+2021-11-18,The Guardian,0,0
+2021-11-18,The Independent,0,1
+2021-11-18,The Sun,1,0
+2021-11-18,The Times and The Sunday Times,0,0
+2021-11-19,Daily Mail and Mail on Sunday,0,1
+2021-11-19,Daily Mirror,0,0
+2021-11-19,Metro,0,0
+2021-11-19,The Daily Telegraph,2,1
+2021-11-19,The Guardian,0,0
+2021-11-19,The Independent,0,0
+2021-11-19,The Sun,0,0
+2021-11-19,The Times and The Sunday Times,0,0
+2021-11-20,Daily Mail and Mail on Sunday,0,0
+2021-11-20,Daily Mirror,0,0
+2021-11-20,Metro,0,0
+2021-11-20,The Daily Telegraph,1,0
+2021-11-20,The Guardian,0,0
+2021-11-20,The Independent,0,0
+2021-11-20,The Sun,0,0
+2021-11-20,The Times and The Sunday Times,2,1
+2021-11-21,Daily Mail and Mail on Sunday,0,0
+2021-11-21,Daily Mirror,0,0
+2021-11-21,Metro,0,0
+2021-11-21,The Daily Telegraph,0,0
+2021-11-21,The Guardian,0,0
+2021-11-21,The Independent,0,0
+2021-11-21,The Sun,0,0
+2021-11-21,The Times and The Sunday Times,0,1
+2021-11-22,Daily Mail and Mail on Sunday,0,0
+2021-11-22,Daily Mirror,0,0
+2021-11-22,Metro,2,0
+2021-11-22,The Daily Telegraph,1,0
+2021-11-22,The Guardian,1,1
+2021-11-22,The Independent,0,0
+2021-11-22,The Sun,1,0
+2021-11-22,The Times and The Sunday Times,1,0
+2021-11-23,Daily Mail and Mail on Sunday,0,0
+2021-11-23,Daily Mirror,0,0
+2021-11-23,Metro,0,0
+2021-11-23,The Daily Telegraph,0,0
+2021-11-23,The Guardian,0,1
+2021-11-23,The Independent,1,0
+2021-11-23,The Sun,0,0
+2021-11-23,The Times and The Sunday Times,1,1
+2021-11-24,Daily Mail and Mail on Sunday,0,0
+2021-11-24,Daily Mirror,0,0
+2021-11-24,Metro,0,0
+2021-11-24,The Daily Telegraph,0,0
+2021-11-24,The Guardian,0,0
+2021-11-24,The Independent,0,0
+2021-11-24,The Sun,0,0
+2021-11-24,The Times and The Sunday Times,0,0
+2021-11-25,Daily Mail and Mail on Sunday,0,0
+2021-11-25,Daily Mirror,0,0
+2021-11-25,Metro,0,0
+2021-11-25,The Daily Telegraph,0,0
+2021-11-25,The Guardian,2,1
+2021-11-25,The Independent,0,0
+2021-11-25,The Sun,0,0
+2021-11-25,The Times and The Sunday Times,0,0
+2021-11-26,Daily Mail and Mail on Sunday,0,0
+2021-11-26,Daily Mirror,0,0
+2021-11-26,Metro,0,0
+2021-11-26,The Daily Telegraph,0,1
+2021-11-26,The Guardian,0,0
+2021-11-26,The Independent,0,0
+2021-11-26,The Sun,0,0
+2021-11-26,The Times and The Sunday Times,0,0
+2021-11-27,Daily Mail and Mail on Sunday,0,0
+2021-11-27,Daily Mirror,0,0
+2021-11-27,Metro,0,0
+2021-11-27,The Daily Telegraph,0,0
+2021-11-27,The Guardian,1,1
+2021-11-27,The Independent,0,2
+2021-11-27,The Sun,0,0
+2021-11-27,The Times and The Sunday Times,0,1
+2021-11-28,Daily Mail and Mail on Sunday,0,0
+2021-11-28,Daily Mirror,0,0
+2021-11-28,Metro,0,0
+2021-11-28,The Daily Telegraph,0,0
+2021-11-28,The Guardian,0,0
+2021-11-28,The Independent,0,0
+2021-11-28,The Sun,0,0
+2021-11-28,The Times and The Sunday Times,0,0
+2021-11-29,Daily Mail and Mail on Sunday,0,0
+2021-11-29,Daily Mirror,0,0
+2021-11-29,Metro,0,0
+2021-11-29,The Daily Telegraph,0,0
+2021-11-29,The Guardian,0,1
+2021-11-29,The Independent,0,0
+2021-11-29,The Sun,0,0
+2021-11-29,The Times and The Sunday Times,0,0
+2021-11-30,Daily Mail and Mail on Sunday,0,0
+2021-11-30,Daily Mirror,0,0
+2021-11-30,Metro,0,0
+2021-11-30,The Daily Telegraph,0,0
+2021-11-30,The Guardian,1,0
+2021-11-30,The Independent,0,0
+2021-11-30,The Sun,0,0
+2021-11-30,The Times and The Sunday Times,0,0
+2021-12-01,Daily Mail and Mail on Sunday,0,0
+2021-12-01,Daily Mirror,0,0
+2021-12-01,Metro,0,0
+2021-12-01,The Daily Telegraph,0,0
+2021-12-01,The Guardian,2,1
+2021-12-01,The Independent,1,0
+2021-12-01,The Sun,0,0
+2021-12-01,The Times and The Sunday Times,1,0
+2021-12-02,Daily Mail and Mail on Sunday,0,1
+2021-12-02,Daily Mirror,0,0
+2021-12-02,Metro,1,0
+2021-12-02,The Daily Telegraph,1,0
+2021-12-02,The Guardian,1,1
+2021-12-02,The Independent,0,1
+2021-12-02,The Sun,0,0
+2021-12-02,The Times and The Sunday Times,1,0
+2021-12-03,Daily Mail and Mail on Sunday,0,0
+2021-12-03,Daily Mirror,0,1
+2021-12-03,Metro,1,0
+2021-12-03,The Daily Telegraph,1,1
+2021-12-03,The Guardian,0,0
+2021-12-03,The Independent,0,0
+2021-12-03,The Sun,0,0
+2021-12-03,The Times and The Sunday Times,1,1
+2021-12-04,Daily Mail and Mail on Sunday,0,1
+2021-12-04,Daily Mirror,0,0
+2021-12-04,Metro,0,0
+2021-12-04,The Daily Telegraph,0,1
+2021-12-04,The Guardian,1,0
+2021-12-04,The Independent,1,0
+2021-12-04,The Sun,1,0
+2021-12-04,The Times and The Sunday Times,0,0
+2021-12-05,Daily Mail and Mail on Sunday,0,0
+2021-12-05,Daily Mirror,0,0
+2021-12-05,Metro,0,0
+2021-12-05,The Daily Telegraph,0,0
+2021-12-05,The Guardian,0,0
+2021-12-05,The Independent,0,0
+2021-12-05,The Sun,0,0
+2021-12-05,The Times and The Sunday Times,0,2
+2021-12-06,Daily Mail and Mail on Sunday,0,0
+2021-12-06,Daily Mirror,0,0
+2021-12-06,Metro,0,0
+2021-12-06,The Daily Telegraph,1,0
+2021-12-06,The Guardian,1,1
+2021-12-06,The Independent,0,0
+2021-12-06,The Sun,2,0
+2021-12-06,The Times and The Sunday Times,1,0
+2021-12-07,Daily Mail and Mail on Sunday,0,1
+2021-12-07,Daily Mirror,0,0
+2021-12-07,Metro,0,0
+2021-12-07,The Daily Telegraph,0,0
+2021-12-07,The Guardian,0,0
+2021-12-07,The Independent,0,1
+2021-12-07,The Sun,1,0
+2021-12-07,The Times and The Sunday Times,2,0
+2021-12-08,Daily Mail and Mail on Sunday,0,0
+2021-12-08,Daily Mirror,0,0
+2021-12-08,Metro,0,0
+2021-12-08,The Daily Telegraph,0,1
+2021-12-08,The Guardian,1,0
+2021-12-08,The Independent,0,0
+2021-12-08,The Sun,0,0
+2021-12-08,The Times and The Sunday Times,0,1
+2021-12-09,Daily Mail and Mail on Sunday,0,0
+2021-12-09,Daily Mirror,0,0
+2021-12-09,Metro,0,0
+2021-12-09,The Daily Telegraph,0,1
+2021-12-09,The Guardian,0,0
+2021-12-09,The Independent,0,1
+2021-12-09,The Sun,0,0
+2021-12-09,The Times and The Sunday Times,0,0
+2021-12-10,Daily Mail and Mail on Sunday,0,0
+2021-12-10,Daily Mirror,0,0
+2021-12-10,Metro,0,0
+2021-12-10,The Daily Telegraph,0,0
+2021-12-10,The Guardian,2,0
+2021-12-10,The Independent,0,0
+2021-12-10,The Sun,0,0
+2021-12-10,The Times and The Sunday Times,1,0
+2021-12-11,Daily Mail and Mail on Sunday,0,0
+2021-12-11,Daily Mirror,0,0
+2021-12-11,Metro,0,0
+2021-12-11,The Daily Telegraph,0,0
+2021-12-11,The Guardian,0,0
+2021-12-11,The Independent,0,1
+2021-12-11,The Sun,0,0
+2021-12-11,The Times and The Sunday Times,0,1
+2021-12-12,Daily Mail and Mail on Sunday,0,0
+2021-12-12,Daily Mirror,0,0
+2021-12-12,Metro,0,0
+2021-12-12,The Daily Telegraph,0,0
+2021-12-12,The Guardian,0,0
+2021-12-12,The Independent,0,0
+2021-12-12,The Sun,0,0
+2021-12-12,The Times and The Sunday Times,0,0
+2021-12-13,Daily Mail and Mail on Sunday,0,0
+2021-12-13,Daily Mirror,0,0
+2021-12-13,Metro,0,0
+2021-12-13,The Daily Telegraph,0,0
+2021-12-13,The Guardian,0,0
+2021-12-13,The Independent,0,0
+2021-12-13,The Sun,0,1
+2021-12-13,The Times and The Sunday Times,0,0
+2021-12-14,Daily Mail and Mail on Sunday,0,0
+2021-12-14,Daily Mirror,0,0
+2021-12-14,Metro,0,0
+2021-12-14,The Daily Telegraph,0,0
+2021-12-14,The Guardian,0,0
+2021-12-14,The Independent,1,0
+2021-12-14,The Sun,0,0
+2021-12-14,The Times and The Sunday Times,0,0
+2021-12-15,Daily Mail and Mail on Sunday,1,0
+2021-12-15,Daily Mirror,0,0
+2021-12-15,Metro,0,0
+2021-12-15,The Daily Telegraph,0,1
+2021-12-15,The Guardian,1,0
+2021-12-15,The Independent,0,0
+2021-12-15,The Sun,0,0
+2021-12-15,The Times and The Sunday Times,1,0
+2021-12-16,Daily Mail and Mail on Sunday,0,0
+2021-12-16,Daily Mirror,0,0
+2021-12-16,Metro,0,0
+2021-12-16,The Daily Telegraph,1,1
+2021-12-16,The Guardian,0,0
+2021-12-16,The Independent,0,0
+2021-12-16,The Sun,1,0
+2021-12-16,The Times and The Sunday Times,0,0
+2021-12-17,Daily Mail and Mail on Sunday,0,0
+2021-12-17,Daily Mirror,0,0
+2021-12-17,Metro,0,0
+2021-12-17,The Daily Telegraph,0,0
+2021-12-17,The Guardian,6,1
+2021-12-17,The Independent,0,0
+2021-12-17,The Sun,0,0
+2021-12-17,The Times and The Sunday Times,0,0
+2021-12-18,Daily Mail and Mail on Sunday,0,0
+2021-12-18,Daily Mirror,0,0
+2021-12-18,Metro,0,0
+2021-12-18,The Daily Telegraph,0,0
+2021-12-18,The Guardian,1,0
+2021-12-18,The Independent,0,0
+2021-12-18,The Sun,0,0
+2021-12-18,The Times and The Sunday Times,0,0
+2021-12-19,Daily Mail and Mail on Sunday,0,0
+2021-12-19,Daily Mirror,0,0
+2021-12-19,Metro,0,0
+2021-12-19,The Daily Telegraph,0,0
+2021-12-19,The Guardian,0,0
+2021-12-19,The Independent,0,0
+2021-12-19,The Sun,0,0
+2021-12-19,The Times and The Sunday Times,0,0
+2021-12-20,Daily Mail and Mail on Sunday,0,0
+2021-12-20,Daily Mirror,0,0
+2021-12-20,Metro,0,0
+2021-12-20,The Daily Telegraph,0,0
+2021-12-20,The Guardian,0,1
+2021-12-20,The Independent,0,0
+2021-12-20,The Sun,0,1
+2021-12-20,The Times and The Sunday Times,0,0
+2021-12-21,Daily Mail and Mail on Sunday,0,0
+2021-12-21,Daily Mirror,0,1
+2021-12-21,Metro,0,0
+2021-12-21,The Daily Telegraph,0,0
+2021-12-21,The Guardian,0,0
+2021-12-21,The Independent,2,0
+2021-12-21,The Sun,0,0
+2021-12-21,The Times and The Sunday Times,0,0
+2021-12-22,Daily Mail and Mail on Sunday,0,0
+2021-12-22,Daily Mirror,2,0
+2021-12-22,Metro,0,0
+2021-12-22,The Daily Telegraph,0,0
+2021-12-22,The Guardian,0,1
+2021-12-22,The Independent,0,0
+2021-12-22,The Sun,0,0
+2021-12-22,The Times and The Sunday Times,0,0
+2021-12-23,Daily Mail and Mail on Sunday,1,0
+2021-12-23,Daily Mirror,0,0
+2021-12-23,Metro,0,0
+2021-12-23,The Daily Telegraph,0,0
+2021-12-23,The Guardian,0,1
+2021-12-23,The Independent,0,0
+2021-12-23,The Sun,0,0
+2021-12-23,The Times and The Sunday Times,1,0
+2021-12-24,Daily Mail and Mail on Sunday,0,0
+2021-12-24,Daily Mirror,1,0
+2021-12-24,Metro,0,0
+2021-12-24,The Daily Telegraph,2,0
+2021-12-24,The Guardian,1,1
+2021-12-24,The Independent,0,0
+2021-12-24,The Sun,0,0
+2021-12-24,The Times and The Sunday Times,0,0
+2021-12-25,Daily Mail and Mail on Sunday,0,0
+2021-12-25,Daily Mirror,0,0
+2021-12-25,Metro,0,0
+2021-12-25,The Daily Telegraph,0,0
+2021-12-25,The Guardian,0,0
+2021-12-25,The Independent,0,0
+2021-12-25,The Sun,0,0
+2021-12-25,The Times and The Sunday Times,0,0
+2021-12-26,Daily Mail and Mail on Sunday,0,0
+2021-12-26,Daily Mirror,0,0
+2021-12-26,Metro,0,0
+2021-12-26,The Daily Telegraph,0,0
+2021-12-26,The Guardian,0,0
+2021-12-26,The Independent,0,0
+2021-12-26,The Sun,0,0
+2021-12-26,The Times and The Sunday Times,0,0
+2021-12-27,Daily Mail and Mail on Sunday,0,0
+2021-12-27,Daily Mirror,0,0
+2021-12-27,Metro,0,0
+2021-12-27,The Daily Telegraph,0,1
+2021-12-27,The Guardian,0,0
+2021-12-27,The Independent,0,0
+2021-12-27,The Sun,0,0
+2021-12-27,The Times and The Sunday Times,0,0
+2021-12-28,Daily Mail and Mail on Sunday,0,0
+2021-12-28,Daily Mirror,1,0
+2021-12-28,Metro,0,0
+2021-12-28,The Daily Telegraph,1,0
+2021-12-28,The Guardian,0,0
+2021-12-28,The Independent,0,0
+2021-12-28,The Sun,0,0
+2021-12-28,The Times and The Sunday Times,0,0
+2021-12-29,Daily Mail and Mail on Sunday,0,0
+2021-12-29,Daily Mirror,0,0
+2021-12-29,Metro,0,0
+2021-12-29,The Daily Telegraph,0,0
+2021-12-29,The Guardian,0,0
+2021-12-29,The Independent,0,0
+2021-12-29,The Sun,0,0
+2021-12-29,The Times and The Sunday Times,1,0
+2021-12-30,Daily Mail and Mail on Sunday,0,0
+2021-12-30,Daily Mirror,0,0
+2021-12-30,Metro,0,0
+2021-12-30,The Daily Telegraph,0,1
+2021-12-30,The Guardian,1,0
+2021-12-30,The Independent,0,0
+2021-12-30,The Sun,2,0
+2021-12-30,The Times and The Sunday Times,0,0
+2021-12-31,Daily Mail and Mail on Sunday,0,0
+2021-12-31,Daily Mirror,0,0
+2021-12-31,Metro,0,0
+2021-12-31,The Daily Telegraph,0,0
+2021-12-31,The Guardian,0,2
+2021-12-31,The Independent,0,0
+2021-12-31,The Sun,2,0
+2021-12-31,The Times and The Sunday Times,0,1
+2022-01-01,Daily Mail and Mail on Sunday,0,0
+2022-01-01,Daily Mirror,0,0
+2022-01-01,Metro,0,0
+2022-01-01,The Daily Telegraph,0,0
+2022-01-01,The Guardian,0,0
+2022-01-01,The Independent,0,0
+2022-01-01,The Sun,1,0
+2022-01-01,The Times and The Sunday Times,0,0
+2022-01-02,Daily Mail and Mail on Sunday,0,0
+2022-01-02,Daily Mirror,0,0
+2022-01-02,Metro,0,0
+2022-01-02,The Daily Telegraph,0,0
+2022-01-02,The Guardian,0,0
+2022-01-02,The Independent,0,0
+2022-01-02,The Sun,0,0
+2022-01-02,The Times and The Sunday Times,0,0
+2022-01-03,Daily Mail and Mail on Sunday,0,0
+2022-01-03,Daily Mirror,0,0
+2022-01-03,Metro,0,0
+2022-01-03,The Daily Telegraph,0,1
+2022-01-03,The Guardian,0,0
+2022-01-03,The Independent,0,0
+2022-01-03,The Sun,0,0
+2022-01-03,The Times and The Sunday Times,0,0
+2022-01-04,Daily Mail and Mail on Sunday,0,0
+2022-01-04,Daily Mirror,0,0
+2022-01-04,Metro,0,0
+2022-01-04,The Daily Telegraph,0,0
+2022-01-04,The Guardian,0,0
+2022-01-04,The Independent,0,0
+2022-01-04,The Sun,0,0
+2022-01-04,The Times and The Sunday Times,0,0
+2022-01-05,Daily Mail and Mail on Sunday,0,0
+2022-01-05,Daily Mirror,0,0
+2022-01-05,Metro,0,0
+2022-01-05,The Daily Telegraph,0,0
+2022-01-05,The Guardian,2,0
+2022-01-05,The Independent,0,0
+2022-01-05,The Sun,0,0
+2022-01-05,The Times and The Sunday Times,0,0
+2022-01-06,Daily Mail and Mail on Sunday,0,0
+2022-01-06,Daily Mirror,1,0
+2022-01-06,Metro,0,0
+2022-01-06,The Daily Telegraph,1,0
+2022-01-06,The Guardian,0,0
+2022-01-06,The Independent,0,0
+2022-01-06,The Sun,1,0
+2022-01-06,The Times and The Sunday Times,0,1
+2022-01-07,Daily Mail and Mail on Sunday,0,0
+2022-01-07,Daily Mirror,0,0
+2022-01-07,Metro,1,0
+2022-01-07,The Daily Telegraph,0,0
+2022-01-07,The Guardian,1,1
+2022-01-07,The Independent,0,0
+2022-01-07,The Sun,0,0
+2022-01-07,The Times and The Sunday Times,0,1
+2022-01-08,Daily Mail and Mail on Sunday,0,0
+2022-01-08,Daily Mirror,0,0
+2022-01-08,Metro,0,0
+2022-01-08,The Daily Telegraph,0,0
+2022-01-08,The Guardian,1,0
+2022-01-08,The Independent,0,0
+2022-01-08,The Sun,0,0
+2022-01-08,The Times and The Sunday Times,0,0
+2022-01-09,Daily Mail and Mail on Sunday,1,0
+2022-01-09,Daily Mirror,0,0
+2022-01-09,Metro,0,0
+2022-01-09,The Daily Telegraph,0,0
+2022-01-09,The Guardian,0,1
+2022-01-09,The Independent,0,0
+2022-01-09,The Sun,0,0
+2022-01-09,The Times and The Sunday Times,0,1
+2022-01-10,Daily Mail and Mail on Sunday,0,0
+2022-01-10,Daily Mirror,0,0
+2022-01-10,Metro,0,0
+2022-01-10,The Daily Telegraph,0,0
+2022-01-10,The Guardian,0,0
+2022-01-10,The Independent,0,0
+2022-01-10,The Sun,0,0
+2022-01-10,The Times and The Sunday Times,0,0
+2022-01-11,Daily Mail and Mail on Sunday,0,0
+2022-01-11,Daily Mirror,0,0
+2022-01-11,Metro,0,0
+2022-01-11,The Daily Telegraph,1,0
+2022-01-11,The Guardian,0,0
+2022-01-11,The Independent,0,0
+2022-01-11,The Sun,0,0
+2022-01-11,The Times and The Sunday Times,0,0
+2022-01-12,Daily Mail and Mail on Sunday,0,0
+2022-01-12,Daily Mirror,0,0
+2022-01-12,Metro,0,0
+2022-01-12,The Daily Telegraph,0,0
+2022-01-12,The Guardian,1,1
+2022-01-12,The Independent,0,0
+2022-01-12,The Sun,0,0
+2022-01-12,The Times and The Sunday Times,0,0
+2022-01-13,Daily Mail and Mail on Sunday,0,0
+2022-01-13,Daily Mirror,0,0
+2022-01-13,Metro,0,0
+2022-01-13,The Daily Telegraph,0,0
+2022-01-13,The Guardian,1,0
+2022-01-13,The Independent,0,0
+2022-01-13,The Sun,0,0
+2022-01-13,The Times and The Sunday Times,0,0
+2022-01-14,Daily Mail and Mail on Sunday,0,0
+2022-01-14,Daily Mirror,0,0
+2022-01-14,Metro,0,0
+2022-01-14,The Daily Telegraph,0,0
+2022-01-14,The Guardian,0,1
+2022-01-14,The Independent,0,0
+2022-01-14,The Sun,0,0
+2022-01-14,The Times and The Sunday Times,0,0
+2022-01-15,Daily Mail and Mail on Sunday,0,0
+2022-01-15,Daily Mirror,0,0
+2022-01-15,Metro,0,0
+2022-01-15,The Daily Telegraph,0,0
+2022-01-15,The Guardian,1,0
+2022-01-15,The Independent,0,0
+2022-01-15,The Sun,0,0
+2022-01-15,The Times and The Sunday Times,0,0
+2022-01-16,Daily Mail and Mail on Sunday,1,0
+2022-01-16,Daily Mirror,0,0
+2022-01-16,Metro,0,0
+2022-01-16,The Daily Telegraph,0,0
+2022-01-16,The Guardian,0,0
+2022-01-16,The Independent,0,0
+2022-01-16,The Sun,0,0
+2022-01-16,The Times and The Sunday Times,0,0
+2022-01-17,Daily Mail and Mail on Sunday,0,0
+2022-01-17,Daily Mirror,0,0
+2022-01-17,Metro,0,0
+2022-01-17,The Daily Telegraph,0,0
+2022-01-17,The Guardian,1,0
+2022-01-17,The Independent,0,0
+2022-01-17,The Sun,0,0
+2022-01-17,The Times and The Sunday Times,0,0
+2022-01-18,Daily Mail and Mail on Sunday,0,0
+2022-01-18,Daily Mirror,0,0
+2022-01-18,Metro,0,0
+2022-01-18,The Daily Telegraph,2,0
+2022-01-18,The Guardian,1,0
+2022-01-18,The Independent,0,0
+2022-01-18,The Sun,0,0
+2022-01-18,The Times and The Sunday Times,0,0
+2022-01-19,Daily Mail and Mail on Sunday,0,0
+2022-01-19,Daily Mirror,0,0
+2022-01-19,Metro,0,0
+2022-01-19,The Daily Telegraph,0,0
+2022-01-19,The Guardian,1,1
+2022-01-19,The Independent,0,0
+2022-01-19,The Sun,0,0
+2022-01-19,The Times and The Sunday Times,0,0
+2022-01-20,Daily Mail and Mail on Sunday,0,1
+2022-01-20,Daily Mirror,0,0
+2022-01-20,Metro,0,0
+2022-01-20,The Daily Telegraph,0,0
+2022-01-20,The Guardian,1,0
+2022-01-20,The Independent,0,0
+2022-01-20,The Sun,0,0
+2022-01-20,The Times and The Sunday Times,0,0
+2022-01-21,Daily Mail and Mail on Sunday,0,0
+2022-01-21,Daily Mirror,0,0
+2022-01-21,Metro,0,0
+2022-01-21,The Daily Telegraph,0,0
+2022-01-21,The Guardian,0,1
+2022-01-21,The Independent,0,0
+2022-01-21,The Sun,0,0
+2022-01-21,The Times and The Sunday Times,0,0
+2022-01-22,Daily Mail and Mail on Sunday,0,0
+2022-01-22,Daily Mirror,0,0
+2022-01-22,Metro,0,0
+2022-01-22,The Daily Telegraph,0,0
+2022-01-22,The Guardian,0,0
+2022-01-22,The Independent,0,0
+2022-01-22,The Sun,0,0
+2022-01-22,The Times and The Sunday Times,1,1
+2022-01-23,Daily Mail and Mail on Sunday,1,0
+2022-01-23,Daily Mirror,0,0
+2022-01-23,Metro,0,0
+2022-01-23,The Daily Telegraph,0,0
+2022-01-23,The Guardian,0,0
+2022-01-23,The Independent,0,0
+2022-01-23,The Sun,0,0
+2022-01-23,The Times and The Sunday Times,0,0
+2022-01-24,Daily Mail and Mail on Sunday,0,0
+2022-01-24,Daily Mirror,0,0
+2022-01-24,Metro,0,0
+2022-01-24,The Daily Telegraph,1,0
+2022-01-24,The Guardian,0,0
+2022-01-24,The Independent,0,0
+2022-01-24,The Sun,0,0
+2022-01-24,The Times and The Sunday Times,0,0
+2022-01-25,Daily Mail and Mail on Sunday,0,0
+2022-01-25,Daily Mirror,0,0
+2022-01-25,Metro,0,0
+2022-01-25,The Daily Telegraph,1,0
+2022-01-25,The Guardian,1,1
+2022-01-25,The Independent,1,0
+2022-01-25,The Sun,2,0
+2022-01-25,The Times and The Sunday Times,2,0
+2022-01-26,Daily Mail and Mail on Sunday,0,0
+2022-01-26,Daily Mirror,2,0
+2022-01-26,Metro,0,0
+2022-01-26,The Daily Telegraph,0,1
+2022-01-26,The Guardian,0,0
+2022-01-26,The Independent,0,0
+2022-01-26,The Sun,0,0
+2022-01-26,The Times and The Sunday Times,2,1
+2022-01-27,Daily Mail and Mail on Sunday,0,0
+2022-01-27,Daily Mirror,0,0
+2022-01-27,Metro,0,0
+2022-01-27,The Daily Telegraph,0,0
+2022-01-27,The Guardian,1,2
+2022-01-27,The Independent,0,0
+2022-01-27,The Sun,0,0
+2022-01-27,The Times and The Sunday Times,0,0
+2022-01-28,Daily Mail and Mail on Sunday,1,0
+2022-01-28,Daily Mirror,0,0
+2022-01-28,Metro,0,0
+2022-01-28,The Daily Telegraph,0,0
+2022-01-28,The Guardian,0,0
+2022-01-28,The Independent,0,0
+2022-01-28,The Sun,0,0
+2022-01-28,The Times and The Sunday Times,1,0
+2022-01-29,Daily Mail and Mail on Sunday,0,0
+2022-01-29,Daily Mirror,0,0
+2022-01-29,Metro,0,0
+2022-01-29,The Daily Telegraph,0,1
+2022-01-29,The Guardian,0,1
+2022-01-29,The Independent,0,0
+2022-01-29,The Sun,0,0
+2022-01-29,The Times and The Sunday Times,0,0
+2022-01-30,Daily Mail and Mail on Sunday,1,0
+2022-01-30,Daily Mirror,0,0
+2022-01-30,Metro,0,0
+2022-01-30,The Daily Telegraph,0,0
+2022-01-30,The Guardian,0,0
+2022-01-30,The Independent,0,0
+2022-01-30,The Sun,0,0
+2022-01-30,The Times and The Sunday Times,0,0
+2022-01-31,Daily Mail and Mail on Sunday,0,0
+2022-01-31,Daily Mirror,1,0
+2022-01-31,Metro,0,0
+2022-01-31,The Daily Telegraph,1,0
+2022-01-31,The Guardian,0,1
+2022-01-31,The Independent,0,0
+2022-01-31,The Sun,1,0
+2022-01-31,The Times and The Sunday Times,0,0
+2022-02-01,Daily Mail and Mail on Sunday,0,0
+2022-02-01,Daily Mirror,0,0
+2022-02-01,Metro,0,0
+2022-02-01,The Daily Telegraph,0,0
+2022-02-01,The Guardian,2,0
+2022-02-01,The Independent,0,0
+2022-02-01,The Sun,0,0
+2022-02-01,The Times and The Sunday Times,0,0
+2022-02-02,Daily Mail and Mail on Sunday,1,0
+2022-02-02,Daily Mirror,0,0
+2022-02-02,Metro,0,0
+2022-02-02,The Daily Telegraph,1,0
+2022-02-02,The Guardian,1,0
+2022-02-02,The Independent,0,0
+2022-02-02,The Sun,4,0
+2022-02-02,The Times and The Sunday Times,1,0
+2022-02-03,Daily Mail and Mail on Sunday,0,0
+2022-02-03,Daily Mirror,0,0
+2022-02-03,Metro,0,0
+2022-02-03,The Daily Telegraph,0,0
+2022-02-03,The Guardian,0,0
+2022-02-03,The Independent,0,0
+2022-02-03,The Sun,0,0
+2022-02-03,The Times and The Sunday Times,0,0
+2022-02-04,Daily Mail and Mail on Sunday,0,0
+2022-02-04,Daily Mirror,0,0
+2022-02-04,Metro,0,0
+2022-02-04,The Daily Telegraph,0,0
+2022-02-04,The Guardian,2,0
+2022-02-04,The Independent,0,0
+2022-02-04,The Sun,0,0
+2022-02-04,The Times and The Sunday Times,0,0
+2022-02-05,Daily Mail and Mail on Sunday,0,0
+2022-02-05,Daily Mirror,0,0
+2022-02-05,Metro,0,0
+2022-02-05,The Daily Telegraph,0,0
+2022-02-05,The Guardian,0,0
+2022-02-05,The Independent,0,0
+2022-02-05,The Sun,0,0
+2022-02-05,The Times and The Sunday Times,0,1
+2022-02-06,Daily Mail and Mail on Sunday,0,0
+2022-02-06,Daily Mirror,0,0
+2022-02-06,Metro,0,0
+2022-02-06,The Daily Telegraph,0,0
+2022-02-06,The Guardian,0,0
+2022-02-06,The Independent,0,0
+2022-02-06,The Sun,0,0
+2022-02-06,The Times and The Sunday Times,0,2
+2022-02-07,Daily Mail and Mail on Sunday,0,0
+2022-02-07,Daily Mirror,0,0
+2022-02-07,Metro,0,0
+2022-02-07,The Daily Telegraph,0,0
+2022-02-07,The Guardian,0,0
+2022-02-07,The Independent,0,0
+2022-02-07,The Sun,0,0
+2022-02-07,The Times and The Sunday Times,0,0
+2022-02-08,Daily Mail and Mail on Sunday,0,0
+2022-02-08,Daily Mirror,0,0
+2022-02-08,Metro,0,0
+2022-02-08,The Daily Telegraph,0,0
+2022-02-08,The Guardian,0,0
+2022-02-08,The Independent,0,0
+2022-02-08,The Sun,0,1
+2022-02-08,The Times and The Sunday Times,0,0
+2022-02-09,Daily Mail and Mail on Sunday,0,0
+2022-02-09,Daily Mirror,0,0
+2022-02-09,Metro,0,0
+2022-02-09,The Daily Telegraph,0,0
+2022-02-09,The Guardian,0,0
+2022-02-09,The Independent,0,0
+2022-02-09,The Sun,0,0
+2022-02-09,The Times and The Sunday Times,0,0
+2022-02-10,Daily Mail and Mail on Sunday,1,0
+2022-02-10,Daily Mirror,0,0
+2022-02-10,Metro,0,0
+2022-02-10,The Daily Telegraph,1,0
+2022-02-10,The Guardian,2,0
+2022-02-10,The Independent,1,0
+2022-02-10,The Sun,0,0
+2022-02-10,The Times and The Sunday Times,1,0
+2022-02-11,Daily Mail and Mail on Sunday,0,0
+2022-02-11,Daily Mirror,0,0
+2022-02-11,Metro,0,0
+2022-02-11,The Daily Telegraph,0,0
+2022-02-11,The Guardian,1,0
+2022-02-11,The Independent,0,0
+2022-02-11,The Sun,0,0
+2022-02-11,The Times and The Sunday Times,1,0
+2022-02-12,Daily Mail and Mail on Sunday,0,0
+2022-02-12,Daily Mirror,0,0
+2022-02-12,Metro,0,0
+2022-02-12,The Daily Telegraph,0,0
+2022-02-12,The Guardian,2,0
+2022-02-12,The Independent,0,0
+2022-02-12,The Sun,0,0
+2022-02-12,The Times and The Sunday Times,0,0
+2022-02-13,Daily Mail and Mail on Sunday,0,0
+2022-02-13,Daily Mirror,2,1
+2022-02-13,Metro,0,0
+2022-02-13,The Daily Telegraph,0,0
+2022-02-13,The Guardian,0,1
+2022-02-13,The Independent,0,0
+2022-02-13,The Sun,0,0
+2022-02-13,The Times and The Sunday Times,0,0
+2022-02-14,Daily Mail and Mail on Sunday,0,0
+2022-02-14,Daily Mirror,0,0
+2022-02-14,Metro,1,0
+2022-02-14,The Daily Telegraph,1,0
+2022-02-14,The Guardian,3,0
+2022-02-14,The Independent,0,0
+2022-02-14,The Sun,1,0
+2022-02-14,The Times and The Sunday Times,1,0
+2022-02-15,Daily Mail and Mail on Sunday,0,0
+2022-02-15,Daily Mirror,0,0
+2022-02-15,Metro,0,0
+2022-02-15,The Daily Telegraph,1,0
+2022-02-15,The Guardian,0,0
+2022-02-15,The Independent,0,0
+2022-02-15,The Sun,1,0
+2022-02-15,The Times and The Sunday Times,1,0
+2022-02-16,Daily Mail and Mail on Sunday,0,0
+2022-02-16,Daily Mirror,0,0
+2022-02-16,Metro,0,0
+2022-02-16,The Daily Telegraph,2,0
+2022-02-16,The Guardian,0,1
+2022-02-16,The Independent,0,0
+2022-02-16,The Sun,0,0
+2022-02-16,The Times and The Sunday Times,1,1
+2022-02-17,Daily Mail and Mail on Sunday,0,1
+2022-02-17,Daily Mirror,0,0
+2022-02-17,Metro,0,0
+2022-02-17,The Daily Telegraph,0,0
+2022-02-17,The Guardian,1,0
+2022-02-17,The Independent,0,1
+2022-02-17,The Sun,0,0
+2022-02-17,The Times and The Sunday Times,0,0
+2022-02-18,Daily Mail and Mail on Sunday,0,0
+2022-02-18,Daily Mirror,0,0
+2022-02-18,Metro,0,0
+2022-02-18,The Daily Telegraph,0,0
+2022-02-18,The Guardian,0,0
+2022-02-18,The Independent,0,0
+2022-02-18,The Sun,1,0
+2022-02-18,The Times and The Sunday Times,0,1
+2022-02-19,Daily Mail and Mail on Sunday,0,0
+2022-02-19,Daily Mirror,0,0
+2022-02-19,Metro,0,0
+2022-02-19,The Daily Telegraph,0,0
+2022-02-19,The Guardian,0,0
+2022-02-19,The Independent,3,0
+2022-02-19,The Sun,0,0
+2022-02-19,The Times and The Sunday Times,0,0
+2022-02-20,Daily Mail and Mail on Sunday,0,0
+2022-02-20,Daily Mirror,0,0
+2022-02-20,Metro,0,0
+2022-02-20,The Daily Telegraph,0,0
+2022-02-20,The Guardian,0,0
+2022-02-20,The Independent,1,1
+2022-02-20,The Sun,0,0
+2022-02-20,The Times and The Sunday Times,1,1
+2022-02-21,Daily Mail and Mail on Sunday,0,1
+2022-02-21,Daily Mirror,0,0
+2022-02-21,Metro,1,0
+2022-02-21,The Daily Telegraph,1,0
+2022-02-21,The Guardian,0,1
+2022-02-21,The Independent,0,0
+2022-02-21,The Sun,0,0
+2022-02-21,The Times and The Sunday Times,1,0
+2022-02-22,Daily Mail and Mail on Sunday,0,0
+2022-02-22,Daily Mirror,0,0
+2022-02-22,Metro,0,0
+2022-02-22,The Daily Telegraph,0,1
+2022-02-22,The Guardian,1,0
+2022-02-22,The Independent,1,0
+2022-02-22,The Sun,0,0
+2022-02-22,The Times and The Sunday Times,0,0
+2022-02-23,Daily Mail and Mail on Sunday,0,0
+2022-02-23,Daily Mirror,0,0
+2022-02-23,Metro,0,0
+2022-02-23,The Daily Telegraph,0,0
+2022-02-23,The Guardian,0,0
+2022-02-23,The Independent,1,0
+2022-02-23,The Sun,0,0
+2022-02-23,The Times and The Sunday Times,0,0
+2022-02-24,Daily Mail and Mail on Sunday,1,0
+2022-02-24,Daily Mirror,0,0
+2022-02-24,Metro,0,0
+2022-02-24,The Daily Telegraph,1,0
+2022-02-24,The Guardian,0,0
+2022-02-24,The Independent,12,8
+2022-02-24,The Sun,0,0
+2022-02-24,The Times and The Sunday Times,2,1
+2022-02-25,Daily Mail and Mail on Sunday,0,0
+2022-02-25,Daily Mirror,0,0
+2022-02-25,Metro,0,0
+2022-02-25,The Daily Telegraph,1,0
+2022-02-25,The Guardian,0,2
+2022-02-25,The Independent,8,9
+2022-02-25,The Sun,0,0
+2022-02-25,The Times and The Sunday Times,0,0
+2022-02-26,Daily Mail and Mail on Sunday,0,0
+2022-02-26,Daily Mirror,0,0
+2022-02-26,Metro,0,0
+2022-02-26,The Daily Telegraph,0,0
+2022-02-26,The Guardian,0,0
+2022-02-26,The Independent,0,2
+2022-02-26,The Sun,0,0
+2022-02-26,The Times and The Sunday Times,0,1
+2022-02-27,Daily Mail and Mail on Sunday,0,0
+2022-02-27,Daily Mirror,0,0
+2022-02-27,Metro,0,0
+2022-02-27,The Daily Telegraph,0,0
+2022-02-27,The Guardian,0,0
+2022-02-27,The Independent,1,0
+2022-02-27,The Sun,1,0
+2022-02-27,The Times and The Sunday Times,0,0
+2022-02-28,Daily Mail and Mail on Sunday,0,0
+2022-02-28,Daily Mirror,0,0
+2022-02-28,Metro,0,0
+2022-02-28,The Daily Telegraph,1,0
+2022-02-28,The Guardian,1,0
+2022-02-28,The Independent,7,2
+2022-02-28,The Sun,0,0
+2022-02-28,The Times and The Sunday Times,0,0
+2022-03-01,Daily Mail and Mail on Sunday,0,0
+2022-03-01,Daily Mirror,0,0
+2022-03-01,Metro,0,0
+2022-03-01,The Daily Telegraph,0,0
+2022-03-01,The Guardian,1,2
+2022-03-01,The Independent,7,5
+2022-03-01,The Sun,0,0
+2022-03-01,The Times and The Sunday Times,0,0
+2022-03-02,Daily Mail and Mail on Sunday,1,0
+2022-03-02,Daily Mirror,0,0
+2022-03-02,Metro,1,0
+2022-03-02,The Daily Telegraph,2,1
+2022-03-02,The Guardian,3,0
+2022-03-02,The Independent,6,7
+2022-03-02,The Sun,0,0
+2022-03-02,The Times and The Sunday Times,0,0
+2022-03-03,Daily Mail and Mail on Sunday,2,0
+2022-03-03,Daily Mirror,0,0
+2022-03-03,Metro,0,0
+2022-03-03,The Daily Telegraph,1,0
+2022-03-03,The Guardian,2,0
+2022-03-03,The Independent,2,4
+2022-03-03,The Sun,0,0
+2022-03-03,The Times and The Sunday Times,0,0
+2022-03-04,Daily Mail and Mail on Sunday,2,0
+2022-03-04,Daily Mirror,0,0
+2022-03-04,Metro,1,0
+2022-03-04,The Daily Telegraph,1,1
+2022-03-04,The Guardian,2,1
+2022-03-04,The Independent,5,5
+2022-03-04,The Sun,0,0
+2022-03-04,The Times and The Sunday Times,1,0
+2022-03-05,Daily Mail and Mail on Sunday,0,0
+2022-03-05,Daily Mirror,0,0
+2022-03-05,Metro,0,0
+2022-03-05,The Daily Telegraph,1,0
+2022-03-05,The Guardian,0,0
+2022-03-05,The Independent,3,1
+2022-03-05,The Sun,0,0
+2022-03-05,The Times and The Sunday Times,2,0
+2022-03-06,Daily Mail and Mail on Sunday,0,0
+2022-03-06,Daily Mirror,0,0
+2022-03-06,Metro,0,0
+2022-03-06,The Daily Telegraph,0,0
+2022-03-06,The Guardian,0,0
+2022-03-06,The Independent,0,0
+2022-03-06,The Sun,0,0
+2022-03-06,The Times and The Sunday Times,0,1
+2022-03-07,Daily Mail and Mail on Sunday,1,0
+2022-03-07,Daily Mirror,0,0
+2022-03-07,Metro,0,0
+2022-03-07,The Daily Telegraph,0,0
+2022-03-07,The Guardian,1,1
+2022-03-07,The Independent,0,3
+2022-03-07,The Sun,0,0
+2022-03-07,The Times and The Sunday Times,0,2
+2022-03-08,Daily Mail and Mail on Sunday,0,0
+2022-03-08,Daily Mirror,0,0
+2022-03-08,Metro,0,0
+2022-03-08,The Daily Telegraph,0,0
+2022-03-08,The Guardian,0,0
+2022-03-08,The Independent,1,2
+2022-03-08,The Sun,0,0
+2022-03-08,The Times and The Sunday Times,0,0
+2022-03-09,Daily Mail and Mail on Sunday,0,0
+2022-03-09,Daily Mirror,0,0
+2022-03-09,Metro,0,0
+2022-03-09,The Daily Telegraph,0,0
+2022-03-09,The Guardian,0,1
+2022-03-09,The Independent,2,2
+2022-03-09,The Sun,0,0
+2022-03-09,The Times and The Sunday Times,0,0
+2022-03-10,Daily Mail and Mail on Sunday,0,0
+2022-03-10,Daily Mirror,0,0
+2022-03-10,Metro,1,0
+2022-03-10,The Daily Telegraph,0,0
+2022-03-10,The Guardian,0,1
+2022-03-10,The Independent,5,4
+2022-03-10,The Sun,0,0
+2022-03-10,The Times and The Sunday Times,1,0
+2022-03-11,Daily Mail and Mail on Sunday,0,0
+2022-03-11,Daily Mirror,0,0
+2022-03-11,Metro,0,0
+2022-03-11,The Daily Telegraph,0,0
+2022-03-11,The Guardian,0,1
+2022-03-11,The Independent,3,2
+2022-03-11,The Sun,0,0
+2022-03-11,The Times and The Sunday Times,0,0
+2022-03-12,Daily Mail and Mail on Sunday,0,0
+2022-03-12,Daily Mirror,0,0
+2022-03-12,Metro,0,0
+2022-03-12,The Daily Telegraph,0,0
+2022-03-12,The Guardian,0,0
+2022-03-12,The Independent,2,3
+2022-03-12,The Sun,0,0
+2022-03-12,The Times and The Sunday Times,0,0
+2022-03-13,Daily Mail and Mail on Sunday,0,0
+2022-03-13,Daily Mirror,0,0
+2022-03-13,Metro,0,0
+2022-03-13,The Daily Telegraph,0,0
+2022-03-13,The Guardian,0,0
+2022-03-13,The Independent,1,0
+2022-03-13,The Sun,0,0
+2022-03-13,The Times and The Sunday Times,0,3
+2022-03-14,Daily Mail and Mail on Sunday,1,1
+2022-03-14,Daily Mirror,0,0
+2022-03-14,Metro,1,0
+2022-03-14,The Daily Telegraph,1,0
+2022-03-14,The Guardian,0,1
+2022-03-14,The Independent,1,4
+2022-03-14,The Sun,0,0
+2022-03-14,The Times and The Sunday Times,0,0
+2022-03-15,Daily Mail and Mail on Sunday,0,0
+2022-03-15,Daily Mirror,0,0
+2022-03-15,Metro,0,0
+2022-03-15,The Daily Telegraph,0,0
+2022-03-15,The Guardian,0,0
+2022-03-15,The Independent,1,6
+2022-03-15,The Sun,0,0
+2022-03-15,The Times and The Sunday Times,0,0
+2022-03-16,Daily Mail and Mail on Sunday,1,0
+2022-03-16,Daily Mirror,0,0
+2022-03-16,Metro,0,0
+2022-03-16,The Daily Telegraph,0,0
+2022-03-16,The Guardian,1,2
+2022-03-16,The Independent,1,12
+2022-03-16,The Sun,0,0
+2022-03-16,The Times and The Sunday Times,1,0
+2022-03-17,Daily Mail and Mail on Sunday,0,0
+2022-03-17,Daily Mirror,0,0
+2022-03-17,Metro,0,0
+2022-03-17,The Daily Telegraph,0,0
+2022-03-17,The Guardian,1,0
+2022-03-17,The Independent,1,6
+2022-03-17,The Sun,0,0
+2022-03-17,The Times and The Sunday Times,0,0
+2022-03-18,Daily Mail and Mail on Sunday,0,2
+2022-03-18,Daily Mirror,1,0
+2022-03-18,Metro,0,0
+2022-03-18,The Daily Telegraph,2,0
+2022-03-18,The Guardian,0,2
+2022-03-18,The Independent,6,1
+2022-03-18,The Sun,0,0
+2022-03-18,The Times and The Sunday Times,2,0
+2022-03-19,Daily Mail and Mail on Sunday,2,1
+2022-03-19,Daily Mirror,0,0
+2022-03-19,Metro,0,0
+2022-03-19,The Daily Telegraph,2,1
+2022-03-19,The Guardian,0,0
+2022-03-19,The Independent,0,5
+2022-03-19,The Sun,0,0
+2022-03-19,The Times and The Sunday Times,1,0
+2022-03-20,Daily Mail and Mail on Sunday,0,0
+2022-03-20,Daily Mirror,0,0
+2022-03-20,Metro,0,0
+2022-03-20,The Daily Telegraph,0,0
+2022-03-20,The Guardian,0,0
+2022-03-20,The Independent,1,1
+2022-03-20,The Sun,0,0
+2022-03-20,The Times and The Sunday Times,1,1
+2022-03-21,Daily Mail and Mail on Sunday,0,0
+2022-03-21,Daily Mirror,0,0
+2022-03-21,Metro,1,0
+2022-03-21,The Daily Telegraph,0,0
+2022-03-21,The Guardian,0,2
+2022-03-21,The Independent,4,5
+2022-03-21,The Sun,0,0
+2022-03-21,The Times and The Sunday Times,0,0
+2022-03-22,Daily Mail and Mail on Sunday,1,0
+2022-03-22,Daily Mirror,2,0
+2022-03-22,Metro,0,0
+2022-03-22,The Daily Telegraph,0,0
+2022-03-22,The Guardian,0,0
+2022-03-22,The Independent,0,0
+2022-03-22,The Sun,0,0
+2022-03-22,The Times and The Sunday Times,0,0
+2022-03-23,Daily Mail and Mail on Sunday,0,0
+2022-03-23,Daily Mirror,0,0
+2022-03-23,Metro,0,0
+2022-03-23,The Daily Telegraph,0,0
+2022-03-23,The Guardian,0,0
+2022-03-23,The Independent,0,1
+2022-03-23,The Sun,0,0
+2022-03-23,The Times and The Sunday Times,0,0
+2022-03-24,Daily Mail and Mail on Sunday,0,1
+2022-03-24,Daily Mirror,0,0
+2022-03-24,Metro,0,0
+2022-03-24,The Daily Telegraph,0,0
+2022-03-24,The Guardian,0,0
+2022-03-24,The Independent,1,1
+2022-03-24,The Sun,0,0
+2022-03-24,The Times and The Sunday Times,0,0
+2022-03-25,Daily Mail and Mail on Sunday,0,0
+2022-03-25,Daily Mirror,0,0
+2022-03-25,Metro,0,0
+2022-03-25,The Daily Telegraph,0,0
+2022-03-25,The Guardian,0,1
+2022-03-25,The Independent,0,1
+2022-03-25,The Sun,1,0
+2022-03-25,The Times and The Sunday Times,0,0
+2022-03-26,Daily Mail and Mail on Sunday,0,0
+2022-03-26,Daily Mirror,0,0
+2022-03-26,Metro,0,0
+2022-03-26,The Daily Telegraph,0,0
+2022-03-26,The Guardian,0,0
+2022-03-26,The Independent,0,1
+2022-03-26,The Sun,0,0
+2022-03-26,The Times and The Sunday Times,1,0
+2022-03-27,Daily Mail and Mail on Sunday,0,0
+2022-03-27,Daily Mirror,0,0
+2022-03-27,Metro,0,0
+2022-03-27,The Daily Telegraph,0,0
+2022-03-27,The Guardian,0,1
+2022-03-27,The Independent,0,1
+2022-03-27,The Sun,0,0
+2022-03-27,The Times and The Sunday Times,0,0
+2022-03-28,Daily Mail and Mail on Sunday,0,1
+2022-03-28,Daily Mirror,0,0
+2022-03-28,Metro,0,0
+2022-03-28,The Daily Telegraph,0,0
+2022-03-28,The Guardian,1,0
+2022-03-28,The Independent,0,1
+2022-03-28,The Sun,0,0
+2022-03-28,The Times and The Sunday Times,0,0
+2022-03-29,Daily Mail and Mail on Sunday,0,0
+2022-03-29,Daily Mirror,0,0
+2022-03-29,Metro,0,0
+2022-03-29,The Daily Telegraph,0,0
+2022-03-29,The Guardian,0,0
+2022-03-29,The Independent,0,1
+2022-03-29,The Sun,0,0
+2022-03-29,The Times and The Sunday Times,0,0
+2022-03-30,Daily Mail and Mail on Sunday,0,0
+2022-03-30,Daily Mirror,0,0
+2022-03-30,Metro,0,0
+2022-03-30,The Daily Telegraph,0,0
+2022-03-30,The Guardian,0,0
+2022-03-30,The Independent,2,6
+2022-03-30,The Sun,0,0
+2022-03-30,The Times and The Sunday Times,0,0
+2022-03-31,Daily Mail and Mail on Sunday,1,0
+2022-03-31,Daily Mirror,1,0
+2022-03-31,Metro,0,0
+2022-03-31,The Daily Telegraph,0,0
+2022-03-31,The Guardian,2,0
+2022-03-31,The Independent,3,4
+2022-03-31,The Sun,0,0
+2022-03-31,The Times and The Sunday Times,0,0
+2022-04-01,Daily Mail and Mail on Sunday,0,0
+2022-04-01,Daily Mirror,0,0
+2022-04-01,Metro,0,0
+2022-04-01,The Daily Telegraph,0,0
+2022-04-01,The Guardian,0,1
+2022-04-01,The Independent,1,0
+2022-04-01,The Sun,0,0
+2022-04-01,The Times and The Sunday Times,0,0
+2022-04-02,Daily Mail and Mail on Sunday,0,0
+2022-04-02,Daily Mirror,0,0
+2022-04-02,Metro,0,0
+2022-04-02,The Daily Telegraph,1,0
+2022-04-02,The Guardian,0,1
+2022-04-02,The Independent,0,1
+2022-04-02,The Sun,2,0
+2022-04-02,The Times and The Sunday Times,0,0
+2022-04-03,Daily Mail and Mail on Sunday,0,0
+2022-04-03,Daily Mirror,0,1
+2022-04-03,Metro,0,0
+2022-04-03,The Daily Telegraph,0,0
+2022-04-03,The Guardian,0,0
+2022-04-03,The Independent,0,1
+2022-04-03,The Sun,0,0
+2022-04-03,The Times and The Sunday Times,0,0
+2022-04-04,Daily Mail and Mail on Sunday,1,0
+2022-04-04,Daily Mirror,0,0
+2022-04-04,Metro,0,0
+2022-04-04,The Daily Telegraph,0,0
+2022-04-04,The Guardian,0,0
+2022-04-04,The Independent,0,0
+2022-04-04,The Sun,0,0
+2022-04-04,The Times and The Sunday Times,0,0
+2022-04-05,Daily Mail and Mail on Sunday,0,0
+2022-04-05,Daily Mirror,0,0
+2022-04-05,Metro,0,0
+2022-04-05,The Daily Telegraph,0,0
+2022-04-05,The Guardian,0,0
+2022-04-05,The Independent,1,1
+2022-04-05,The Sun,0,0
+2022-04-05,The Times and The Sunday Times,0,0
+2022-04-06,Daily Mail and Mail on Sunday,0,0
+2022-04-06,Daily Mirror,1,0
+2022-04-06,Metro,0,0
+2022-04-06,The Daily Telegraph,0,0
+2022-04-06,The Guardian,0,0
+2022-04-06,The Independent,1,2
+2022-04-06,The Sun,0,0
+2022-04-06,The Times and The Sunday Times,0,0
+2022-04-07,Daily Mail and Mail on Sunday,0,0
+2022-04-07,Daily Mirror,0,0
+2022-04-07,Metro,0,0
+2022-04-07,The Daily Telegraph,0,0
+2022-04-07,The Guardian,0,0
+2022-04-07,The Independent,0,2
+2022-04-07,The Sun,0,0
+2022-04-07,The Times and The Sunday Times,0,0
+2022-04-08,Daily Mail and Mail on Sunday,0,1
+2022-04-08,Daily Mirror,1,2
+2022-04-08,Metro,0,1
+2022-04-08,The Daily Telegraph,1,0
+2022-04-08,The Guardian,0,2
+2022-04-08,The Independent,1,3
+2022-04-08,The Sun,0,0
+2022-04-08,The Times and The Sunday Times,4,0
+2022-04-09,Daily Mail and Mail on Sunday,0,0
+2022-04-09,Daily Mirror,0,0
+2022-04-09,Metro,0,0
+2022-04-09,The Daily Telegraph,1,0
+2022-04-09,The Guardian,0,0
+2022-04-09,The Independent,0,1
+2022-04-09,The Sun,0,0
+2022-04-09,The Times and The Sunday Times,0,0
+2022-04-10,Daily Mail and Mail on Sunday,0,0
+2022-04-10,Daily Mirror,0,0
+2022-04-10,Metro,0,0
+2022-04-10,The Daily Telegraph,0,0
+2022-04-10,The Guardian,0,0
+2022-04-10,The Independent,0,0
+2022-04-10,The Sun,0,0
+2022-04-10,The Times and The Sunday Times,0,0
+2022-04-11,Daily Mail and Mail on Sunday,1,1
+2022-04-11,Daily Mirror,1,0
+2022-04-11,Metro,0,0
+2022-04-11,The Daily Telegraph,0,0
+2022-04-11,The Guardian,0,1
+2022-04-11,The Independent,2,1
+2022-04-11,The Sun,0,0
+2022-04-11,The Times and The Sunday Times,1,1
+2022-04-12,Daily Mail and Mail on Sunday,0,1
+2022-04-12,Daily Mirror,1,0
+2022-04-12,Metro,0,0
+2022-04-12,The Daily Telegraph,0,0
+2022-04-12,The Guardian,0,0
+2022-04-12,The Independent,0,0
+2022-04-12,The Sun,1,1
+2022-04-12,The Times and The Sunday Times,1,0
+2022-04-13,Daily Mail and Mail on Sunday,1,0
+2022-04-13,Daily Mirror,2,3
+2022-04-13,Metro,0,0
+2022-04-13,The Daily Telegraph,1,0
+2022-04-13,The Guardian,2,1
+2022-04-13,The Independent,1,2
+2022-04-13,The Sun,0,0
+2022-04-13,The Times and The Sunday Times,1,1
+2022-04-14,Daily Mail and Mail on Sunday,0,0
+2022-04-14,Daily Mirror,0,0
+2022-04-14,Metro,0,0
+2022-04-14,The Daily Telegraph,2,0
+2022-04-14,The Guardian,0,0
+2022-04-14,The Independent,1,0
+2022-04-14,The Sun,0,0
+2022-04-14,The Times and The Sunday Times,0,0
+2022-04-15,Daily Mail and Mail on Sunday,0,0
+2022-04-15,Daily Mirror,0,0
+2022-04-15,Metro,0,0
+2022-04-15,The Daily Telegraph,0,0
+2022-04-15,The Guardian,2,2
+2022-04-15,The Independent,0,1
+2022-04-15,The Sun,0,0
+2022-04-15,The Times and The Sunday Times,1,0
+2022-04-16,Daily Mail and Mail on Sunday,0,0
+2022-04-16,Daily Mirror,2,1
+2022-04-16,Metro,0,0
+2022-04-16,The Daily Telegraph,0,0
+2022-04-16,The Guardian,0,1
+2022-04-16,The Independent,0,1
+2022-04-16,The Sun,0,0
+2022-04-16,The Times and The Sunday Times,0,0
+2022-04-17,Daily Mail and Mail on Sunday,0,0
+2022-04-17,Daily Mirror,0,0
+2022-04-17,Metro,0,0
+2022-04-17,The Daily Telegraph,0,0
+2022-04-17,The Guardian,1,0
+2022-04-17,The Independent,1,1
+2022-04-17,The Sun,0,0
+2022-04-17,The Times and The Sunday Times,0,1
+2022-04-18,Daily Mail and Mail on Sunday,0,0
+2022-04-18,Daily Mirror,0,0
+2022-04-18,Metro,0,0
+2022-04-18,The Daily Telegraph,0,0
+2022-04-18,The Guardian,1,0
+2022-04-18,The Independent,1,0
+2022-04-18,The Sun,0,0
+2022-04-18,The Times and The Sunday Times,0,0
+2022-04-19,Daily Mail and Mail on Sunday,0,1
+2022-04-19,Daily Mirror,0,0
+2022-04-19,Metro,0,0
+2022-04-19,The Daily Telegraph,0,0
+2022-04-19,The Guardian,0,0
+2022-04-19,The Independent,0,1
+2022-04-19,The Sun,0,0
+2022-04-19,The Times and The Sunday Times,1,0
+2022-04-20,Daily Mail and Mail on Sunday,0,2
+2022-04-20,Daily Mirror,0,0
+2022-04-20,Metro,0,0
+2022-04-20,The Daily Telegraph,0,1
+2022-04-20,The Guardian,1,0
+2022-04-20,The Independent,2,0
+2022-04-20,The Sun,0,1
+2022-04-20,The Times and The Sunday Times,0,0
+2022-04-21,Daily Mail and Mail on Sunday,1,0
+2022-04-21,Daily Mirror,1,0
+2022-04-21,Metro,0,0
+2022-04-21,The Daily Telegraph,1,0
+2022-04-21,The Guardian,1,0
+2022-04-21,The Independent,0,2
+2022-04-21,The Sun,2,0
+2022-04-21,The Times and The Sunday Times,1,0
+2022-04-22,Daily Mail and Mail on Sunday,0,0
+2022-04-22,Daily Mirror,0,0
+2022-04-22,Metro,0,0
+2022-04-22,The Daily Telegraph,0,0
+2022-04-22,The Guardian,0,0
+2022-04-22,The Independent,0,0
+2022-04-22,The Sun,0,0
+2022-04-22,The Times and The Sunday Times,1,0
+2022-04-23,Daily Mail and Mail on Sunday,0,0
+2022-04-23,Daily Mirror,1,0
+2022-04-23,Metro,0,0
+2022-04-23,The Daily Telegraph,0,0
+2022-04-23,The Guardian,0,0
+2022-04-23,The Independent,1,0
+2022-04-23,The Sun,0,0
+2022-04-23,The Times and The Sunday Times,0,0
+2022-04-24,Daily Mail and Mail on Sunday,0,0
+2022-04-24,Daily Mirror,0,0
+2022-04-24,Metro,0,0
+2022-04-24,The Daily Telegraph,0,0
+2022-04-24,The Guardian,0,0
+2022-04-24,The Independent,0,2
+2022-04-24,The Sun,0,0
+2022-04-24,The Times and The Sunday Times,0,0
+2022-04-25,Daily Mail and Mail on Sunday,0,0
+2022-04-25,Daily Mirror,0,0
+2022-04-25,Metro,0,0
+2022-04-25,The Daily Telegraph,1,1
+2022-04-25,The Guardian,0,0
+2022-04-25,The Independent,2,2
+2022-04-25,The Sun,0,0
+2022-04-25,The Times and The Sunday Times,0,0
+2022-04-26,Daily Mail and Mail on Sunday,0,0
+2022-04-26,Daily Mirror,1,0
+2022-04-26,Metro,0,0
+2022-04-26,The Daily Telegraph,0,0
+2022-04-26,The Guardian,2,0
+2022-04-26,The Independent,1,5
+2022-04-26,The Sun,0,0
+2022-04-26,The Times and The Sunday Times,0,0
+2022-04-27,Daily Mail and Mail on Sunday,1,0
+2022-04-27,Daily Mirror,0,0
+2022-04-27,Metro,0,0
+2022-04-27,The Daily Telegraph,0,0
+2022-04-27,The Guardian,1,1
+2022-04-27,The Independent,5,2
+2022-04-27,The Sun,0,0
+2022-04-27,The Times and The Sunday Times,0,0
+2022-04-28,Daily Mail and Mail on Sunday,0,0
+2022-04-28,Daily Mirror,0,0
+2022-04-28,Metro,0,0
+2022-04-28,The Daily Telegraph,1,0
+2022-04-28,The Guardian,0,1
+2022-04-28,The Independent,2,2
+2022-04-28,The Sun,0,0
+2022-04-28,The Times and The Sunday Times,0,0
+2022-04-29,Daily Mail and Mail on Sunday,0,0
+2022-04-29,Daily Mirror,0,0
+2022-04-29,Metro,0,0
+2022-04-29,The Daily Telegraph,0,0
+2022-04-29,The Guardian,0,0
+2022-04-29,The Independent,1,1
+2022-04-29,The Sun,0,0
+2022-04-29,The Times and The Sunday Times,2,0
+2022-04-30,Daily Mail and Mail on Sunday,0,0
+2022-04-30,Daily Mirror,0,0
+2022-04-30,Metro,0,0
+2022-04-30,The Daily Telegraph,0,0
+2022-04-30,The Guardian,1,0
+2022-04-30,The Independent,1,1
+2022-04-30,The Sun,0,0
+2022-04-30,The Times and The Sunday Times,1,1
+2022-05-01,Daily Mail and Mail on Sunday,0,1
+2022-05-01,Daily Mirror,0,0
+2022-05-01,Metro,0,0
+2022-05-01,The Daily Telegraph,0,0
+2022-05-01,The Guardian,0,0
+2022-05-01,The Independent,0,2
+2022-05-01,The Sun,0,0
+2022-05-01,The Times and The Sunday Times,0,0
+2022-05-02,Daily Mail and Mail on Sunday,1,0
+2022-05-02,Daily Mirror,0,0
+2022-05-02,Metro,0,0
+2022-05-02,The Daily Telegraph,0,0
+2022-05-02,The Guardian,0,0
+2022-05-02,The Independent,0,1
+2022-05-02,The Sun,0,0
+2022-05-02,The Times and The Sunday Times,0,0
+2022-05-03,Daily Mail and Mail on Sunday,1,0
+2022-05-03,Daily Mirror,0,0
+2022-05-03,Metro,0,0
+2022-05-03,The Daily Telegraph,1,0
+2022-05-03,The Guardian,0,1
+2022-05-03,The Independent,2,0
+2022-05-03,The Sun,0,0
+2022-05-03,The Times and The Sunday Times,1,1
+2022-05-04,Daily Mail and Mail on Sunday,3,1
+2022-05-04,Daily Mirror,0,0
+2022-05-04,Metro,0,0
+2022-05-04,The Daily Telegraph,0,0
+2022-05-04,The Guardian,0,1
+2022-05-04,The Independent,2,2
+2022-05-04,The Sun,0,0
+2022-05-04,The Times and The Sunday Times,0,1
+2022-05-05,Daily Mail and Mail on Sunday,0,0
+2022-05-05,Daily Mirror,1,0
+2022-05-05,Metro,0,0
+2022-05-05,The Daily Telegraph,1,0
+2022-05-05,The Guardian,0,1
+2022-05-05,The Independent,0,1
+2022-05-05,The Sun,0,0
+2022-05-05,The Times and The Sunday Times,0,0
+2022-05-06,Daily Mail and Mail on Sunday,0,0
+2022-05-06,Daily Mirror,0,1
+2022-05-06,Metro,0,0
+2022-05-06,The Daily Telegraph,0,0
+2022-05-06,The Guardian,0,2
+2022-05-06,The Independent,0,7
+2022-05-06,The Sun,0,0
+2022-05-06,The Times and The Sunday Times,0,0
+2022-05-07,Daily Mail and Mail on Sunday,1,0
+2022-05-07,Daily Mirror,1,0
+2022-05-07,Metro,0,0
+2022-05-07,The Daily Telegraph,0,0
+2022-05-07,The Guardian,0,0
+2022-05-07,The Independent,0,3
+2022-05-07,The Sun,0,0
+2022-05-07,The Times and The Sunday Times,0,0
+2022-05-08,Daily Mail and Mail on Sunday,1,0
+2022-05-08,Daily Mirror,0,1
+2022-05-08,Metro,0,0
+2022-05-08,The Daily Telegraph,0,0
+2022-05-08,The Guardian,0,0
+2022-05-08,The Independent,0,0
+2022-05-08,The Sun,0,0
+2022-05-08,The Times and The Sunday Times,0,1
+2022-05-09,Daily Mail and Mail on Sunday,0,0
+2022-05-09,Daily Mirror,0,0
+2022-05-09,Metro,0,0
+2022-05-09,The Daily Telegraph,0,0
+2022-05-09,The Guardian,0,0
+2022-05-09,The Independent,1,1
+2022-05-09,The Sun,0,0
+2022-05-09,The Times and The Sunday Times,1,1
+2022-05-10,Daily Mail and Mail on Sunday,2,0
+2022-05-10,Daily Mirror,0,0
+2022-05-10,Metro,0,0
+2022-05-10,The Daily Telegraph,0,0
+2022-05-10,The Guardian,1,0
+2022-05-10,The Independent,2,0
+2022-05-10,The Sun,0,1
+2022-05-10,The Times and The Sunday Times,0,0
+2022-05-11,Daily Mail and Mail on Sunday,0,0
+2022-05-11,Daily Mirror,0,0
+2022-05-11,Metro,0,0
+2022-05-11,The Daily Telegraph,1,0
+2022-05-11,The Guardian,1,0
+2022-05-11,The Independent,1,0
+2022-05-11,The Sun,0,0
+2022-05-11,The Times and The Sunday Times,0,0
+2022-05-12,Daily Mail and Mail on Sunday,0,0
+2022-05-12,Daily Mirror,1,0
+2022-05-12,Metro,0,0
+2022-05-12,The Daily Telegraph,1,0
+2022-05-12,The Guardian,0,0
+2022-05-12,The Independent,1,1
+2022-05-12,The Sun,0,0
+2022-05-12,The Times and The Sunday Times,1,0
+2022-05-13,Daily Mail and Mail on Sunday,1,0
+2022-05-13,Daily Mirror,0,0
+2022-05-13,Metro,0,0
+2022-05-13,The Daily Telegraph,0,0
+2022-05-13,The Guardian,1,1
+2022-05-13,The Independent,2,1
+2022-05-13,The Sun,0,0
+2022-05-13,The Times and The Sunday Times,0,0
+2022-05-14,Daily Mail and Mail on Sunday,1,0
+2022-05-14,Daily Mirror,0,0
+2022-05-14,Metro,0,0
+2022-05-14,The Daily Telegraph,2,0
+2022-05-14,The Guardian,0,1
+2022-05-14,The Independent,2,0
+2022-05-14,The Sun,0,0
+2022-05-14,The Times and The Sunday Times,2,0
+2022-05-15,Daily Mail and Mail on Sunday,1,0
+2022-05-15,Daily Mirror,0,0
+2022-05-15,Metro,0,0
+2022-05-15,The Daily Telegraph,0,0
+2022-05-15,The Guardian,1,0
+2022-05-15,The Independent,2,0
+2022-05-15,The Sun,0,0
+2022-05-15,The Times and The Sunday Times,1,0
+2022-05-16,Daily Mail and Mail on Sunday,0,0
+2022-05-16,Daily Mirror,0,0
+2022-05-16,Metro,0,0
+2022-05-16,The Daily Telegraph,0,0
+2022-05-16,The Guardian,2,0
+2022-05-16,The Independent,1,1
+2022-05-16,The Sun,0,0
+2022-05-16,The Times and The Sunday Times,0,0
+2022-05-17,Daily Mail and Mail on Sunday,0,0
+2022-05-17,Daily Mirror,0,1
+2022-05-17,Metro,0,0
+2022-05-17,The Daily Telegraph,0,1
+2022-05-17,The Guardian,0,0
+2022-05-17,The Independent,2,1
+2022-05-17,The Sun,0,0
+2022-05-17,The Times and The Sunday Times,1,0
+2022-05-18,Daily Mail and Mail on Sunday,1,0
+2022-05-18,Daily Mirror,0,0
+2022-05-18,Metro,0,0
+2022-05-18,The Daily Telegraph,0,0
+2022-05-18,The Guardian,0,2
+2022-05-18,The Independent,1,1
+2022-05-18,The Sun,0,0
+2022-05-18,The Times and The Sunday Times,0,2
+2022-05-19,Daily Mail and Mail on Sunday,2,0
+2022-05-19,Daily Mirror,0,0
+2022-05-19,Metro,2,0
+2022-05-19,The Daily Telegraph,1,1
+2022-05-19,The Guardian,1,0
+2022-05-19,The Independent,0,5
+2022-05-19,The Sun,1,0
+2022-05-19,The Times and The Sunday Times,2,0
+2022-05-20,Daily Mail and Mail on Sunday,1,0
+2022-05-20,Daily Mirror,2,0
+2022-05-20,Metro,1,0
+2022-05-20,The Daily Telegraph,2,0
+2022-05-20,The Guardian,1,1
+2022-05-20,The Independent,0,4
+2022-05-20,The Sun,0,0
+2022-05-20,The Times and The Sunday Times,2,0
+2022-05-21,Daily Mail and Mail on Sunday,1,0
+2022-05-21,Daily Mirror,1,0
+2022-05-21,Metro,0,0
+2022-05-21,The Daily Telegraph,0,1
+2022-05-21,The Guardian,1,0
+2022-05-21,The Independent,0,0
+2022-05-21,The Sun,1,0
+2022-05-21,The Times and The Sunday Times,2,0
+2022-05-22,Daily Mail and Mail on Sunday,5,0
+2022-05-22,Daily Mirror,0,0
+2022-05-22,Metro,0,0
+2022-05-22,The Daily Telegraph,0,0
+2022-05-22,The Guardian,2,0
+2022-05-22,The Independent,1,1
+2022-05-22,The Sun,1,1
+2022-05-22,The Times and The Sunday Times,3,2
+2022-05-23,Daily Mail and Mail on Sunday,1,0
+2022-05-23,Daily Mirror,0,2
+2022-05-23,Metro,0,0
+2022-05-23,The Daily Telegraph,1,1
+2022-05-23,The Guardian,2,1
+2022-05-23,The Independent,1,1
+2022-05-23,The Sun,0,0
+2022-05-23,The Times and The Sunday Times,1,1
+2022-05-24,Daily Mail and Mail on Sunday,2,0
+2022-05-24,Daily Mirror,0,0
+2022-05-24,Metro,1,0
+2022-05-24,The Daily Telegraph,3,0
+2022-05-24,The Guardian,2,0
+2022-05-24,The Independent,2,0
+2022-05-24,The Sun,5,0
+2022-05-24,The Times and The Sunday Times,1,0
+2022-05-25,Daily Mail and Mail on Sunday,2,3
+2022-05-25,Daily Mirror,0,1
+2022-05-25,Metro,0,0
+2022-05-25,The Daily Telegraph,3,2
+2022-05-25,The Guardian,1,0
+2022-05-25,The Independent,2,2
+2022-05-25,The Sun,1,0
+2022-05-25,The Times and The Sunday Times,1,2
+2022-05-26,Daily Mail and Mail on Sunday,0,1
+2022-05-26,Daily Mirror,3,0
+2022-05-26,Metro,0,0
+2022-05-26,The Daily Telegraph,0,0
+2022-05-26,The Guardian,0,0
+2022-05-26,The Independent,0,0
+2022-05-26,The Sun,0,2
+2022-05-26,The Times and The Sunday Times,2,0
+2022-05-27,Daily Mail and Mail on Sunday,1,0
+2022-05-27,Daily Mirror,1,2
+2022-05-27,Metro,0,0
+2022-05-27,The Daily Telegraph,1,0
+2022-05-27,The Guardian,0,1
+2022-05-27,The Independent,1,1
+2022-05-27,The Sun,0,0
+2022-05-27,The Times and The Sunday Times,2,0
+2022-05-28,Daily Mail and Mail on Sunday,2,0
+2022-05-28,Daily Mirror,0,0
+2022-05-28,Metro,0,0
+2022-05-28,The Daily Telegraph,0,0
+2022-05-28,The Guardian,0,0
+2022-05-28,The Independent,0,0
+2022-05-28,The Sun,0,1
+2022-05-28,The Times and The Sunday Times,2,1
+2022-05-29,Daily Mail and Mail on Sunday,0,2
+2022-05-29,Daily Mirror,1,1
+2022-05-29,Metro,0,0
+2022-05-29,The Daily Telegraph,0,0
+2022-05-29,The Guardian,0,0
+2022-05-29,The Independent,0,0
+2022-05-29,The Sun,2,0
+2022-05-29,The Times and The Sunday Times,0,2
+2022-05-30,Daily Mail and Mail on Sunday,2,1
+2022-05-30,Daily Mirror,0,0
+2022-05-30,Metro,2,0
+2022-05-30,The Daily Telegraph,1,0
+2022-05-30,The Guardian,1,1
+2022-05-30,The Independent,2,0
+2022-05-30,The Sun,1,0
+2022-05-30,The Times and The Sunday Times,2,0
+2022-05-31,Daily Mail and Mail on Sunday,0,0
+2022-05-31,Daily Mirror,0,0
+2022-05-31,Metro,0,0
+2022-05-31,The Daily Telegraph,1,0
+2022-05-31,The Guardian,1,1
+2022-05-31,The Independent,1,1
+2022-05-31,The Sun,1,0
+2022-05-31,The Times and The Sunday Times,2,0
+2022-06-01,Daily Mail and Mail on Sunday,0,0
+2022-06-01,Daily Mirror,0,0
+2022-06-01,Metro,0,0
+2022-06-01,The Daily Telegraph,1,0
+2022-06-01,The Guardian,1,0
+2022-06-01,The Independent,0,0
+2022-06-01,The Sun,0,0
+2022-06-01,The Times and The Sunday Times,1,1
+2022-06-02,Daily Mail and Mail on Sunday,1,0
+2022-06-02,Daily Mirror,0,0
+2022-06-02,Metro,0,0
+2022-06-02,The Daily Telegraph,1,0
+2022-06-02,The Guardian,1,1
+2022-06-02,The Independent,0,0
+2022-06-02,The Sun,1,0
+2022-06-02,The Times and The Sunday Times,1,0
+2022-06-03,Daily Mail and Mail on Sunday,0,0
+2022-06-03,Daily Mirror,0,0
+2022-06-03,Metro,0,0
+2022-06-03,The Daily Telegraph,0,0
+2022-06-03,The Guardian,0,2
+2022-06-03,The Independent,2,0
+2022-06-03,The Sun,0,0
+2022-06-03,The Times and The Sunday Times,3,0
+2022-06-04,Daily Mail and Mail on Sunday,0,0
+2022-06-04,Daily Mirror,1,0
+2022-06-04,Metro,0,0
+2022-06-04,The Daily Telegraph,0,0
+2022-06-04,The Guardian,0,1
+2022-06-04,The Independent,2,1
+2022-06-04,The Sun,1,0
+2022-06-04,The Times and The Sunday Times,0,0
+2022-06-05,Daily Mail and Mail on Sunday,0,1
+2022-06-05,Daily Mirror,0,0
+2022-06-05,Metro,0,0
+2022-06-05,The Daily Telegraph,0,0
+2022-06-05,The Guardian,1,0
+2022-06-05,The Independent,3,2
+2022-06-05,The Sun,1,0
+2022-06-05,The Times and The Sunday Times,0,1
+2022-06-06,Daily Mail and Mail on Sunday,0,0
+2022-06-06,Daily Mirror,0,0
+2022-06-06,Metro,0,0
+2022-06-06,The Daily Telegraph,2,0
+2022-06-06,The Guardian,3,0
+2022-06-06,The Independent,3,4
+2022-06-06,The Sun,0,0
+2022-06-06,The Times and The Sunday Times,1,0
+2022-06-07,Daily Mail and Mail on Sunday,0,0
+2022-06-07,Daily Mirror,0,0
+2022-06-07,Metro,0,1
+2022-06-07,The Daily Telegraph,1,1
+2022-06-07,The Guardian,4,1
+2022-06-07,The Independent,1,3
+2022-06-07,The Sun,1,0
+2022-06-07,The Times and The Sunday Times,0,0
+2022-06-08,Daily Mail and Mail on Sunday,3,0
+2022-06-08,Daily Mirror,3,0
+2022-06-08,Metro,2,0
+2022-06-08,The Daily Telegraph,1,0
+2022-06-08,The Guardian,3,0
+2022-06-08,The Independent,7,2
+2022-06-08,The Sun,0,0
+2022-06-08,The Times and The Sunday Times,2,0
+2022-06-09,Daily Mail and Mail on Sunday,0,2
+2022-06-09,Daily Mirror,1,0
+2022-06-09,Metro,3,0
+2022-06-09,The Daily Telegraph,3,0
+2022-06-09,The Guardian,4,1
+2022-06-09,The Independent,3,1
+2022-06-09,The Sun,1,1
+2022-06-09,The Times and The Sunday Times,6,1
+2022-06-10,Daily Mail and Mail on Sunday,2,0
+2022-06-10,Daily Mirror,1,1
+2022-06-10,Metro,4,0
+2022-06-10,The Daily Telegraph,2,3
+2022-06-10,The Guardian,1,0
+2022-06-10,The Independent,1,1
+2022-06-10,The Sun,1,0
+2022-06-10,The Times and The Sunday Times,3,2
+2022-06-11,Daily Mail and Mail on Sunday,2,1
+2022-06-11,Daily Mirror,1,0
+2022-06-11,Metro,0,0
+2022-06-11,The Daily Telegraph,4,2
+2022-06-11,The Guardian,1,0
+2022-06-11,The Independent,2,1
+2022-06-11,The Sun,2,0
+2022-06-11,The Times and The Sunday Times,6,0
+2022-06-12,Daily Mail and Mail on Sunday,2,1
+2022-06-12,Daily Mirror,1,0
+2022-06-12,Metro,0,0
+2022-06-12,The Daily Telegraph,0,0
+2022-06-12,The Guardian,1,0
+2022-06-12,The Independent,2,0
+2022-06-12,The Sun,3,2
+2022-06-12,The Times and The Sunday Times,3,1
+2022-06-13,Daily Mail and Mail on Sunday,3,0
+2022-06-13,Daily Mirror,0,0
+2022-06-13,Metro,2,0
+2022-06-13,The Daily Telegraph,3,0
+2022-06-13,The Guardian,1,0
+2022-06-13,The Independent,2,0
+2022-06-13,The Sun,1,0
+2022-06-13,The Times and The Sunday Times,3,0
+2022-06-14,Daily Mail and Mail on Sunday,0,1
+2022-06-14,Daily Mirror,4,0
+2022-06-14,Metro,0,0
+2022-06-14,The Daily Telegraph,2,0
+2022-06-14,The Guardian,1,0
+2022-06-14,The Independent,2,1
+2022-06-14,The Sun,0,1
+2022-06-14,The Times and The Sunday Times,1,0
+2022-06-15,Daily Mail and Mail on Sunday,1,0
+2022-06-15,Daily Mirror,1,0
+2022-06-15,Metro,1,0
+2022-06-15,The Daily Telegraph,1,0
+2022-06-15,The Guardian,4,1
+2022-06-15,The Independent,4,1
+2022-06-15,The Sun,0,0
+2022-06-15,The Times and The Sunday Times,1,0
+2022-06-16,Daily Mail and Mail on Sunday,2,1
+2022-06-16,Daily Mirror,2,0
+2022-06-16,Metro,2,0
+2022-06-16,The Daily Telegraph,5,2
+2022-06-16,The Guardian,2,0
+2022-06-16,The Independent,2,0
+2022-06-16,The Sun,2,1
+2022-06-16,The Times and The Sunday Times,5,1
+2022-06-17,Daily Mail and Mail on Sunday,4,0
+2022-06-17,Daily Mirror,0,1
+2022-06-17,Metro,1,0
+2022-06-17,The Daily Telegraph,4,0
+2022-06-17,The Guardian,0,0
+2022-06-17,The Independent,7,3
+2022-06-17,The Sun,0,0
+2022-06-17,The Times and The Sunday Times,2,5
+2022-06-18,Daily Mail and Mail on Sunday,2,0
+2022-06-18,Daily Mirror,1,1
+2022-06-18,Metro,0,0
+2022-06-18,The Daily Telegraph,4,1
+2022-06-18,The Guardian,1,0
+2022-06-18,The Independent,2,2
+2022-06-18,The Sun,0,0
+2022-06-18,The Times and The Sunday Times,6,4
+2022-06-19,Daily Mail and Mail on Sunday,3,0
+2022-06-19,Daily Mirror,0,0
+2022-06-19,Metro,0,0
+2022-06-19,The Daily Telegraph,0,0
+2022-06-19,The Guardian,2,0
+2022-06-19,The Independent,5,4
+2022-06-19,The Sun,4,0
+2022-06-19,The Times and The Sunday Times,3,0
+2022-06-20,Daily Mail and Mail on Sunday,4,0
+2022-06-20,Daily Mirror,4,0
+2022-06-20,Metro,2,0
+2022-06-20,The Daily Telegraph,7,0
+2022-06-20,The Guardian,5,3
+2022-06-20,The Independent,17,3
+2022-06-20,The Sun,5,1
+2022-06-20,The Times and The Sunday Times,5,0
+2022-06-21,Daily Mail and Mail on Sunday,5,0
+2022-06-21,Daily Mirror,5,2
+2022-06-21,Metro,3,0
+2022-06-21,The Daily Telegraph,5,1
+2022-06-21,The Guardian,12,2
+2022-06-21,The Independent,17,8
+2022-06-21,The Sun,4,0
+2022-06-21,The Times and The Sunday Times,6,2
+2022-06-22,Daily Mail and Mail on Sunday,5,0
+2022-06-22,Daily Mirror,7,0
+2022-06-22,Metro,2,1
+2022-06-22,The Daily Telegraph,9,2
+2022-06-22,The Guardian,11,2
+2022-06-22,The Independent,10,11
+2022-06-22,The Sun,6,0
+2022-06-22,The Times and The Sunday Times,6,4
+2022-06-23,Daily Mail and Mail on Sunday,6,2
+2022-06-23,Daily Mirror,4,0
+2022-06-23,Metro,1,0
+2022-06-23,The Daily Telegraph,1,1
+2022-06-23,The Guardian,6,5
+2022-06-23,The Independent,11,9
+2022-06-23,The Sun,1,0
+2022-06-23,The Times and The Sunday Times,3,3
+2022-06-24,Daily Mail and Mail on Sunday,8,0
+2022-06-24,Daily Mirror,6,0
+2022-06-24,Metro,2,1
+2022-06-24,The Daily Telegraph,1,1
+2022-06-24,The Guardian,3,3
+2022-06-24,The Independent,11,3
+2022-06-24,The Sun,2,0
+2022-06-24,The Times and The Sunday Times,2,3
+2022-06-25,Daily Mail and Mail on Sunday,2,2
+2022-06-25,Daily Mirror,0,0
+2022-06-25,Metro,0,0
+2022-06-25,The Daily Telegraph,5,1
+2022-06-25,The Guardian,4,1
+2022-06-25,The Independent,11,2
+2022-06-25,The Sun,1,0
+2022-06-25,The Times and The Sunday Times,2,4
+2022-06-26,Daily Mail and Mail on Sunday,2,0
+2022-06-26,Daily Mirror,1,0
+2022-06-26,Metro,0,0
+2022-06-26,The Daily Telegraph,0,0
+2022-06-26,The Guardian,1,0
+2022-06-26,The Independent,5,6
+2022-06-26,The Sun,3,0
+2022-06-26,The Times and The Sunday Times,0,1
+2022-06-27,Daily Mail and Mail on Sunday,3,1
+2022-06-27,Daily Mirror,3,0
+2022-06-27,Metro,1,0
+2022-06-27,The Daily Telegraph,4,0
+2022-06-27,The Guardian,3,0
+2022-06-27,The Independent,11,10
+2022-06-27,The Sun,1,0
+2022-06-27,The Times and The Sunday Times,1,1
+2022-06-28,Daily Mail and Mail on Sunday,2,3
+2022-06-28,Daily Mirror,3,0
+2022-06-28,Metro,1,0
+2022-06-28,The Daily Telegraph,1,3
+2022-06-28,The Guardian,1,2
+2022-06-28,The Independent,6,6
+2022-06-28,The Sun,0,0
+2022-06-28,The Times and The Sunday Times,2,3
+2022-06-29,Daily Mail and Mail on Sunday,2,0
+2022-06-29,Daily Mirror,5,0
+2022-06-29,Metro,4,0
+2022-06-29,The Daily Telegraph,2,1
+2022-06-29,The Guardian,3,1
+2022-06-29,The Independent,6,7
+2022-06-29,The Sun,0,1
+2022-06-29,The Times and The Sunday Times,1,0
+2022-06-30,Daily Mail and Mail on Sunday,1,0
+2022-06-30,Daily Mirror,2,1
+2022-06-30,Metro,1,0
+2022-06-30,The Daily Telegraph,2,1
+2022-06-30,The Guardian,2,2
+2022-06-30,The Independent,4,6
+2022-06-30,The Sun,2,0
+2022-06-30,The Times and The Sunday Times,2,0
+2022-07-01,Daily Mail and Mail on Sunday,3,0
+2022-07-01,Daily Mirror,2,0
+2022-07-01,Metro,2,1
+2022-07-01,The Daily Telegraph,2,1
+2022-07-01,The Guardian,4,3
+2022-07-01,The Independent,5,4
+2022-07-01,The Sun,1,0
+2022-07-01,The Times and The Sunday Times,5,2
+2022-07-02,Daily Mail and Mail on Sunday,2,0
+2022-07-02,Daily Mirror,1,1
+2022-07-02,Metro,0,0
+2022-07-02,The Daily Telegraph,7,2
+2022-07-02,The Guardian,0,0
+2022-07-02,The Independent,3,0
+2022-07-02,The Sun,3,0
+2022-07-02,The Times and The Sunday Times,2,2
+2022-07-03,Daily Mail and Mail on Sunday,1,1
+2022-07-03,Daily Mirror,2,0
+2022-07-03,Metro,0,0
+2022-07-03,The Daily Telegraph,0,0
+2022-07-03,The Guardian,1,0
+2022-07-03,The Independent,1,2
+2022-07-03,The Sun,1,0
+2022-07-03,The Times and The Sunday Times,0,2
+2022-07-04,Daily Mail and Mail on Sunday,0,1
+2022-07-04,Daily Mirror,1,1
+2022-07-04,Metro,1,0
+2022-07-04,The Daily Telegraph,1,1
+2022-07-04,The Guardian,1,1
+2022-07-04,The Independent,1,4
+2022-07-04,The Sun,0,0
+2022-07-04,The Times and The Sunday Times,1,0
+2022-07-05,Daily Mail and Mail on Sunday,1,0
+2022-07-05,Daily Mirror,1,0
+2022-07-05,Metro,1,0
+2022-07-05,The Daily Telegraph,1,0
+2022-07-05,The Guardian,0,1
+2022-07-05,The Independent,4,4
+2022-07-05,The Sun,2,0
+2022-07-05,The Times and The Sunday Times,3,1
+2022-07-06,Daily Mail and Mail on Sunday,1,0
+2022-07-06,Daily Mirror,3,0
+2022-07-06,Metro,0,0
+2022-07-06,The Daily Telegraph,2,2
+2022-07-06,The Guardian,2,4
+2022-07-06,The Independent,4,2
+2022-07-06,The Sun,0,0
+2022-07-06,The Times and The Sunday Times,1,2
+2022-07-07,Daily Mail and Mail on Sunday,0,1
+2022-07-07,Daily Mirror,0,1
+2022-07-07,Metro,0,0
+2022-07-07,The Daily Telegraph,1,0
+2022-07-07,The Guardian,0,0
+2022-07-07,The Independent,1,3
+2022-07-07,The Sun,2,1
+2022-07-07,The Times and The Sunday Times,1,1
+2022-07-08,Daily Mail and Mail on Sunday,0,0
+2022-07-08,Daily Mirror,0,1
+2022-07-08,Metro,0,0
+2022-07-08,The Daily Telegraph,2,0
+2022-07-08,The Guardian,1,2
+2022-07-08,The Independent,2,1
+2022-07-08,The Sun,0,0
+2022-07-08,The Times and The Sunday Times,0,1
+2022-07-09,Daily Mail and Mail on Sunday,1,0
+2022-07-09,Daily Mirror,0,0
+2022-07-09,Metro,0,0
+2022-07-09,The Daily Telegraph,0,0
+2022-07-09,The Guardian,0,3
+2022-07-09,The Independent,1,2
+2022-07-09,The Sun,1,0
+2022-07-09,The Times and The Sunday Times,3,1
+2022-07-10,Daily Mail and Mail on Sunday,1,1
+2022-07-10,Daily Mirror,2,0
+2022-07-10,Metro,0,0
+2022-07-10,The Daily Telegraph,0,0
+2022-07-10,The Guardian,2,0
+2022-07-10,The Independent,0,0
+2022-07-10,The Sun,1,0
+2022-07-10,The Times and The Sunday Times,3,0
+2022-07-11,Daily Mail and Mail on Sunday,0,1
+2022-07-11,Daily Mirror,0,0
+2022-07-11,Metro,0,0
+2022-07-11,The Daily Telegraph,0,0
+2022-07-11,The Guardian,2,0
+2022-07-11,The Independent,2,3
+2022-07-11,The Sun,0,1
+2022-07-11,The Times and The Sunday Times,2,0
+2022-07-12,Daily Mail and Mail on Sunday,2,1
+2022-07-12,Daily Mirror,0,0
+2022-07-12,Metro,2,0
+2022-07-12,The Daily Telegraph,2,0
+2022-07-12,The Guardian,1,2
+2022-07-12,The Independent,0,1
+2022-07-12,The Sun,3,0
+2022-07-12,The Times and The Sunday Times,3,0
+2022-07-13,Daily Mail and Mail on Sunday,0,0
+2022-07-13,Daily Mirror,1,0
+2022-07-13,Metro,0,0
+2022-07-13,The Daily Telegraph,0,0
+2022-07-13,The Guardian,0,3
+2022-07-13,The Independent,4,0
+2022-07-13,The Sun,1,0
+2022-07-13,The Times and The Sunday Times,0,1
+2022-07-14,Daily Mail and Mail on Sunday,0,2
+2022-07-14,Daily Mirror,1,0
+2022-07-14,Metro,1,0
+2022-07-14,The Daily Telegraph,3,0
+2022-07-14,The Guardian,1,0
+2022-07-14,The Independent,7,0
+2022-07-14,The Sun,3,0
+2022-07-14,The Times and The Sunday Times,1,0
+2022-07-15,Daily Mail and Mail on Sunday,3,1
+2022-07-15,Daily Mirror,2,0
+2022-07-15,Metro,0,0
+2022-07-15,The Daily Telegraph,3,0
+2022-07-15,The Guardian,0,1
+2022-07-15,The Independent,3,2
+2022-07-15,The Sun,0,0
+2022-07-15,The Times and The Sunday Times,2,1
+2022-07-16,Daily Mail and Mail on Sunday,2,1
+2022-07-16,Daily Mirror,0,0
+2022-07-16,Metro,0,0
+2022-07-16,The Daily Telegraph,1,1
+2022-07-16,The Guardian,0,3
+2022-07-16,The Independent,1,1
+2022-07-16,The Sun,1,0
+2022-07-16,The Times and The Sunday Times,2,1
+2022-07-17,Daily Mail and Mail on Sunday,1,0
+2022-07-17,Daily Mirror,2,0
+2022-07-17,Metro,0,0
+2022-07-17,The Daily Telegraph,0,0
+2022-07-17,The Guardian,0,1
+2022-07-17,The Independent,1,0
+2022-07-17,The Sun,2,0
+2022-07-17,The Times and The Sunday Times,1,1
+2022-07-18,Daily Mail and Mail on Sunday,0,0
+2022-07-18,Daily Mirror,2,0
+2022-07-18,Metro,0,0
+2022-07-18,The Daily Telegraph,0,1
+2022-07-18,The Guardian,1,1
+2022-07-18,The Independent,0,1
+2022-07-18,The Sun,0,0
+2022-07-18,The Times and The Sunday Times,0,0
+2022-07-19,Daily Mail and Mail on Sunday,0,1
+2022-07-19,Daily Mirror,2,0
+2022-07-19,Metro,0,0
+2022-07-19,The Daily Telegraph,1,0
+2022-07-19,The Guardian,1,3
+2022-07-19,The Independent,6,0
+2022-07-19,The Sun,0,0
+2022-07-19,The Times and The Sunday Times,1,0
+2022-07-20,Daily Mail and Mail on Sunday,2,0
+2022-07-20,Daily Mirror,1,0
+2022-07-20,Metro,0,0
+2022-07-20,The Daily Telegraph,3,0
+2022-07-20,The Guardian,0,3
+2022-07-20,The Independent,2,4
+2022-07-20,The Sun,1,0
+2022-07-20,The Times and The Sunday Times,3,0
+2022-07-21,Daily Mail and Mail on Sunday,3,0
+2022-07-21,Daily Mirror,1,1
+2022-07-21,Metro,1,0
+2022-07-21,The Daily Telegraph,2,0
+2022-07-21,The Guardian,0,2
+2022-07-21,The Independent,3,3
+2022-07-21,The Sun,2,0
+2022-07-21,The Times and The Sunday Times,3,0
+2022-07-22,Daily Mail and Mail on Sunday,1,0
+2022-07-22,Daily Mirror,1,0
+2022-07-22,Metro,1,1
+2022-07-22,The Daily Telegraph,0,0
+2022-07-22,The Guardian,1,0
+2022-07-22,The Independent,6,1
+2022-07-22,The Sun,2,0
+2022-07-22,The Times and The Sunday Times,0,0
+2022-07-23,Daily Mail and Mail on Sunday,3,0
+2022-07-23,Daily Mirror,1,1
+2022-07-23,Metro,0,0
+2022-07-23,The Daily Telegraph,3,1
+2022-07-23,The Guardian,1,0
+2022-07-23,The Independent,1,1
+2022-07-23,The Sun,2,0
+2022-07-23,The Times and The Sunday Times,6,1
+2022-07-24,Daily Mail and Mail on Sunday,1,0
+2022-07-24,Daily Mirror,2,0
+2022-07-24,Metro,0,0
+2022-07-24,The Daily Telegraph,0,0
+2022-07-24,The Guardian,1,0
+2022-07-24,The Independent,1,1
+2022-07-24,The Sun,1,0
+2022-07-24,The Times and The Sunday Times,0,0
+2022-07-25,Daily Mail and Mail on Sunday,1,0
+2022-07-25,Daily Mirror,0,0
+2022-07-25,Metro,0,0
+2022-07-25,The Daily Telegraph,0,1
+2022-07-25,The Guardian,3,0
+2022-07-25,The Independent,5,1
+2022-07-25,The Sun,1,1
+2022-07-25,The Times and The Sunday Times,2,0
+2022-07-26,Daily Mail and Mail on Sunday,1,0
+2022-07-26,Daily Mirror,1,0
+2022-07-26,Metro,2,0
+2022-07-26,The Daily Telegraph,4,1
+2022-07-26,The Guardian,3,1
+2022-07-26,The Independent,5,1
+2022-07-26,The Sun,3,0
+2022-07-26,The Times and The Sunday Times,4,0
+2022-07-27,Daily Mail and Mail on Sunday,3,0
+2022-07-27,Daily Mirror,2,2
+2022-07-27,Metro,1,0
+2022-07-27,The Daily Telegraph,4,0
+2022-07-27,The Guardian,8,1
+2022-07-27,The Independent,8,3
+2022-07-27,The Sun,3,0
+2022-07-27,The Times and The Sunday Times,3,2
+2022-07-28,Daily Mail and Mail on Sunday,3,0
+2022-07-28,Daily Mirror,3,0
+2022-07-28,Metro,2,0
+2022-07-28,The Daily Telegraph,4,1
+2022-07-28,The Guardian,6,3
+2022-07-28,The Independent,5,4
+2022-07-28,The Sun,2,0
+2022-07-28,The Times and The Sunday Times,4,0
+2022-07-29,Daily Mail and Mail on Sunday,3,0
+2022-07-29,Daily Mirror,2,0
+2022-07-29,Metro,0,0
+2022-07-29,The Daily Telegraph,3,0
+2022-07-29,The Guardian,3,1
+2022-07-29,The Independent,8,2
+2022-07-29,The Sun,1,0
+2022-07-29,The Times and The Sunday Times,1,2
+2022-07-30,Daily Mail and Mail on Sunday,1,1
+2022-07-30,Daily Mirror,0,0
+2022-07-30,Metro,0,0
+2022-07-30,The Daily Telegraph,3,0
+2022-07-30,The Guardian,2,2
+2022-07-30,The Independent,4,1
+2022-07-30,The Sun,0,0
+2022-07-30,The Times and The Sunday Times,0,1
+2022-07-31,Daily Mail and Mail on Sunday,1,0
+2022-07-31,Daily Mirror,0,0
+2022-07-31,Metro,0,0
+2022-07-31,The Daily Telegraph,0,0
+2022-07-31,The Guardian,0,0
+2022-07-31,The Independent,3,1
+2022-07-31,The Sun,0,0
+2022-07-31,The Times and The Sunday Times,0,1
+2022-08-01,Daily Mail and Mail on Sunday,0,1
+2022-08-01,Daily Mirror,0,0
+2022-08-01,Metro,1,0
+2022-08-01,The Daily Telegraph,2,0
+2022-08-01,The Guardian,3,1
+2022-08-01,The Independent,1,3
+2022-08-01,The Sun,1,0
+2022-08-01,The Times and The Sunday Times,2,0
+2022-08-02,Daily Mail and Mail on Sunday,1,0
+2022-08-02,Daily Mirror,1,0
+2022-08-02,Metro,0,0
+2022-08-02,The Daily Telegraph,5,0
+2022-08-02,The Guardian,2,0
+2022-08-02,The Independent,1,1
+2022-08-02,The Sun,0,0
+2022-08-02,The Times and The Sunday Times,0,1
+2022-08-03,Daily Mail and Mail on Sunday,0,1
+2022-08-03,Daily Mirror,0,0
+2022-08-03,Metro,0,0
+2022-08-03,The Daily Telegraph,1,0
+2022-08-03,The Guardian,0,1
+2022-08-03,The Independent,2,1
+2022-08-03,The Sun,0,0
+2022-08-03,The Times and The Sunday Times,3,0
+2022-08-04,Daily Mail and Mail on Sunday,0,0
+2022-08-04,Daily Mirror,0,0
+2022-08-04,Metro,0,1
+2022-08-04,The Daily Telegraph,1,0
+2022-08-04,The Guardian,1,0
+2022-08-04,The Independent,3,0
+2022-08-04,The Sun,1,0
+2022-08-04,The Times and The Sunday Times,1,1
+2022-08-05,Daily Mail and Mail on Sunday,0,0
+2022-08-05,Daily Mirror,0,0
+2022-08-05,Metro,2,0
+2022-08-05,The Daily Telegraph,2,1
+2022-08-05,The Guardian,1,3
+2022-08-05,The Independent,0,1
+2022-08-05,The Sun,2,0
+2022-08-05,The Times and The Sunday Times,2,0
+2022-08-06,Daily Mail and Mail on Sunday,0,0
+2022-08-06,Daily Mirror,0,0
+2022-08-06,Metro,0,0
+2022-08-06,The Daily Telegraph,3,0
+2022-08-06,The Guardian,0,1
+2022-08-06,The Independent,3,1
+2022-08-06,The Sun,1,0
+2022-08-06,The Times and The Sunday Times,2,1
+2022-08-07,Daily Mail and Mail on Sunday,0,0
+2022-08-07,Daily Mirror,0,1
+2022-08-07,Metro,0,0
+2022-08-07,The Daily Telegraph,0,0
+2022-08-07,The Guardian,0,0
+2022-08-07,The Independent,1,0
+2022-08-07,The Sun,0,0
+2022-08-07,The Times and The Sunday Times,1,1
+2022-08-08,Daily Mail and Mail on Sunday,0,0
+2022-08-08,Daily Mirror,0,1
+2022-08-08,Metro,0,0
+2022-08-08,The Daily Telegraph,1,0
+2022-08-08,The Guardian,1,0
+2022-08-08,The Independent,3,0
+2022-08-08,The Sun,1,2
+2022-08-08,The Times and The Sunday Times,0,1
+2022-08-09,Daily Mail and Mail on Sunday,1,0
+2022-08-09,Daily Mirror,1,1
+2022-08-09,Metro,1,1
+2022-08-09,The Daily Telegraph,1,0
+2022-08-09,The Guardian,1,1
+2022-08-09,The Independent,5,2
+2022-08-09,The Sun,0,0
+2022-08-09,The Times and The Sunday Times,2,0
+2022-08-10,Daily Mail and Mail on Sunday,1,0
+2022-08-10,Daily Mirror,2,0
+2022-08-10,Metro,1,0
+2022-08-10,The Daily Telegraph,1,0
+2022-08-10,The Guardian,1,1
+2022-08-10,The Independent,8,3
+2022-08-10,The Sun,0,0
+2022-08-10,The Times and The Sunday Times,3,1
+2022-08-11,Daily Mail and Mail on Sunday,2,1
+2022-08-11,Daily Mirror,3,0
+2022-08-11,Metro,2,0
+2022-08-11,The Daily Telegraph,3,0
+2022-08-11,The Guardian,1,1
+2022-08-11,The Independent,3,0
+2022-08-11,The Sun,3,0
+2022-08-11,The Times and The Sunday Times,2,0
+2022-08-12,Daily Mail and Mail on Sunday,1,0
+2022-08-12,Daily Mirror,3,0
+2022-08-12,Metro,1,0
+2022-08-12,The Daily Telegraph,1,0
+2022-08-12,The Guardian,2,0
+2022-08-12,The Independent,7,2
+2022-08-12,The Sun,1,0
+2022-08-12,The Times and The Sunday Times,1,1
+2022-08-13,Daily Mail and Mail on Sunday,2,0
+2022-08-13,Daily Mirror,2,0
+2022-08-13,Metro,0,0
+2022-08-13,The Daily Telegraph,3,1
+2022-08-13,The Guardian,1,0
+2022-08-13,The Independent,3,1
+2022-08-13,The Sun,2,0
+2022-08-13,The Times and The Sunday Times,5,0
+2022-08-14,Daily Mail and Mail on Sunday,0,0
+2022-08-14,Daily Mirror,0,2
+2022-08-14,Metro,0,0
+2022-08-14,The Daily Telegraph,0,0
+2022-08-14,The Guardian,0,0
+2022-08-14,The Independent,2,0
+2022-08-14,The Sun,0,0
+2022-08-14,The Times and The Sunday Times,3,1
+2022-08-15,Daily Mail and Mail on Sunday,1,1
+2022-08-15,Daily Mirror,0,0
+2022-08-15,Metro,0,0
+2022-08-15,The Daily Telegraph,0,0
+2022-08-15,The Guardian,2,0
+2022-08-15,The Independent,2,2
+2022-08-15,The Sun,0,0
+2022-08-15,The Times and The Sunday Times,1,0
+2022-08-16,Daily Mail and Mail on Sunday,0,0
+2022-08-16,Daily Mirror,0,0
+2022-08-16,Metro,3,1
+2022-08-16,The Daily Telegraph,2,0
+2022-08-16,The Guardian,2,2
+2022-08-16,The Independent,3,4
+2022-08-16,The Sun,1,0
+2022-08-16,The Times and The Sunday Times,3,1
+2022-08-17,Daily Mail and Mail on Sunday,0,2
+2022-08-17,Daily Mirror,0,1
+2022-08-17,Metro,0,0
+2022-08-17,The Daily Telegraph,1,1
+2022-08-17,The Guardian,1,1
+2022-08-17,The Independent,7,2
+2022-08-17,The Sun,0,0
+2022-08-17,The Times and The Sunday Times,2,0
+2022-08-18,Daily Mail and Mail on Sunday,0,1
+2022-08-18,Daily Mirror,2,0
+2022-08-18,Metro,3,0
+2022-08-18,The Daily Telegraph,0,0
+2022-08-18,The Guardian,4,1
+2022-08-18,The Independent,7,2
+2022-08-18,The Sun,2,1
+2022-08-18,The Times and The Sunday Times,5,0
+2022-08-19,Daily Mail and Mail on Sunday,0,1
+2022-08-19,Daily Mirror,2,0
+2022-08-19,Metro,3,0
+2022-08-19,The Daily Telegraph,1,0
+2022-08-19,The Guardian,3,1
+2022-08-19,The Independent,4,4
+2022-08-19,The Sun,1,0
+2022-08-19,The Times and The Sunday Times,2,2
+2022-08-20,Daily Mail and Mail on Sunday,3,0
+2022-08-20,Daily Mirror,0,0
+2022-08-20,Metro,0,0
+2022-08-20,The Daily Telegraph,2,0
+2022-08-20,The Guardian,2,0
+2022-08-20,The Independent,3,0
+2022-08-20,The Sun,3,2
+2022-08-20,The Times and The Sunday Times,0,2
+2022-08-21,Daily Mail and Mail on Sunday,1,0
+2022-08-21,Daily Mirror,1,1
+2022-08-21,Metro,0,0
+2022-08-21,The Daily Telegraph,0,0
+2022-08-21,The Guardian,0,0
+2022-08-21,The Independent,3,1
+2022-08-21,The Sun,1,0
+2022-08-21,The Times and The Sunday Times,0,0
+2022-08-22,Daily Mail and Mail on Sunday,1,0
+2022-08-22,Daily Mirror,0,0
+2022-08-22,Metro,0,0
+2022-08-22,The Daily Telegraph,0,0
+2022-08-22,The Guardian,0,3
+2022-08-22,The Independent,12,6
+2022-08-22,The Sun,1,0
+2022-08-22,The Times and The Sunday Times,3,4
+2022-08-23,Daily Mail and Mail on Sunday,4,0
+2022-08-23,Daily Mirror,1,0
+2022-08-23,Metro,0,0
+2022-08-23,The Daily Telegraph,6,0
+2022-08-23,The Guardian,1,2
+2022-08-23,The Independent,12,3
+2022-08-23,The Sun,3,1
+2022-08-23,The Times and The Sunday Times,4,1
+2022-08-24,Daily Mail and Mail on Sunday,2,0
+2022-08-24,Daily Mirror,0,0
+2022-08-24,Metro,2,0
+2022-08-24,The Daily Telegraph,0,0
+2022-08-24,The Guardian,4,1
+2022-08-24,The Independent,5,5
+2022-08-24,The Sun,2,0
+2022-08-24,The Times and The Sunday Times,2,2
+2022-08-25,Daily Mail and Mail on Sunday,0,0
+2022-08-25,Daily Mirror,3,0
+2022-08-25,Metro,1,0
+2022-08-25,The Daily Telegraph,4,0
+2022-08-25,The Guardian,2,1
+2022-08-25,The Independent,11,8
+2022-08-25,The Sun,0,0
+2022-08-25,The Times and The Sunday Times,4,1
+2022-08-26,Daily Mail and Mail on Sunday,1,0
+2022-08-26,Daily Mirror,3,0
+2022-08-26,Metro,1,0
+2022-08-26,The Daily Telegraph,2,1
+2022-08-26,The Guardian,2,1
+2022-08-26,The Independent,3,5
+2022-08-26,The Sun,2,0
+2022-08-26,The Times and The Sunday Times,9,0
+2022-08-27,Daily Mail and Mail on Sunday,0,0
+2022-08-27,Daily Mirror,2,0
+2022-08-27,Metro,0,0
+2022-08-27,The Daily Telegraph,2,1
+2022-08-27,The Guardian,0,1
+2022-08-27,The Independent,2,4
+2022-08-27,The Sun,3,0
+2022-08-27,The Times and The Sunday Times,1,0
+2022-08-28,Daily Mail and Mail on Sunday,2,0
+2022-08-28,Daily Mirror,2,0
+2022-08-28,Metro,0,0
+2022-08-28,The Daily Telegraph,0,0
+2022-08-28,The Guardian,2,1
+2022-08-28,The Independent,1,6
+2022-08-28,The Sun,2,0
+2022-08-28,The Times and The Sunday Times,5,1
+2022-08-29,Daily Mail and Mail on Sunday,0,0
+2022-08-29,Daily Mirror,0,0
+2022-08-29,Metro,0,0
+2022-08-29,The Daily Telegraph,3,1
+2022-08-29,The Guardian,3,1
+2022-08-29,The Independent,8,6
+2022-08-29,The Sun,1,1
+2022-08-29,The Times and The Sunday Times,1,1
+2022-08-30,Daily Mail and Mail on Sunday,2,0
+2022-08-30,Daily Mirror,0,0
+2022-08-30,Metro,1,0
+2022-08-30,The Daily Telegraph,3,0
+2022-08-30,The Guardian,3,1
+2022-08-30,The Independent,5,5
+2022-08-30,The Sun,2,0
+2022-08-30,The Times and The Sunday Times,4,1
+2022-08-31,Daily Mail and Mail on Sunday,0,2
+2022-08-31,Daily Mirror,0,0
+2022-08-31,Metro,1,0
+2022-08-31,The Daily Telegraph,2,1
+2022-08-31,The Guardian,1,1
+2022-08-31,The Independent,3,2
+2022-08-31,The Sun,1,0
+2022-08-31,The Times and The Sunday Times,2,3
+2022-09-01,Daily Mail and Mail on Sunday,1,0
+2022-09-01,Daily Mirror,2,0
+2022-09-01,Metro,3,0
+2022-09-01,The Daily Telegraph,2,0
+2022-09-01,The Guardian,0,1
+2022-09-01,The Independent,4,8
+2022-09-01,The Sun,1,0
+2022-09-01,The Times and The Sunday Times,4,0
+2022-09-02,Daily Mail and Mail on Sunday,3,0
+2022-09-02,Daily Mirror,0,0
+2022-09-02,Metro,1,0
+2022-09-02,The Daily Telegraph,3,1
+2022-09-02,The Guardian,2,1
+2022-09-02,The Independent,4,8
+2022-09-02,The Sun,2,1
+2022-09-02,The Times and The Sunday Times,4,2
+2022-09-03,Daily Mail and Mail on Sunday,0,0
+2022-09-03,Daily Mirror,0,0
+2022-09-03,Metro,0,0
+2022-09-03,The Daily Telegraph,0,2
+2022-09-03,The Guardian,3,0
+2022-09-03,The Independent,4,4
+2022-09-03,The Sun,2,0
+2022-09-03,The Times and The Sunday Times,1,1
+2022-09-04,Daily Mail and Mail on Sunday,0,0
+2022-09-04,Daily Mirror,0,0
+2022-09-04,Metro,0,0
+2022-09-04,The Daily Telegraph,0,0
+2022-09-04,The Guardian,0,0
+2022-09-04,The Independent,1,2
+2022-09-04,The Sun,2,1
+2022-09-04,The Times and The Sunday Times,0,0
+2022-09-05,Daily Mail and Mail on Sunday,0,0
+2022-09-05,Daily Mirror,0,0
+2022-09-05,Metro,0,0
+2022-09-05,The Daily Telegraph,1,0
+2022-09-05,The Guardian,1,3
+2022-09-05,The Independent,2,7
+2022-09-05,The Sun,0,0
+2022-09-05,The Times and The Sunday Times,0,1
+2022-09-06,Daily Mail and Mail on Sunday,0,0
+2022-09-06,Daily Mirror,0,0
+2022-09-06,Metro,0,0
+2022-09-06,The Daily Telegraph,1,1
+2022-09-06,The Guardian,3,4
+2022-09-06,The Independent,4,4
+2022-09-06,The Sun,1,2
+2022-09-06,The Times and The Sunday Times,0,0
+2022-09-07,Daily Mail and Mail on Sunday,0,1
+2022-09-07,Daily Mirror,0,0
+2022-09-07,Metro,1,0
+2022-09-07,The Daily Telegraph,1,1
+2022-09-07,The Guardian,0,2
+2022-09-07,The Independent,6,1
+2022-09-07,The Sun,0,0
+2022-09-07,The Times and The Sunday Times,0,0
+2022-09-08,Daily Mail and Mail on Sunday,0,0
+2022-09-08,Daily Mirror,1,0
+2022-09-08,Metro,2,0
+2022-09-08,The Daily Telegraph,3,0
+2022-09-08,The Guardian,0,3
+2022-09-08,The Independent,1,14
+2022-09-08,The Sun,1,0
+2022-09-08,The Times and The Sunday Times,4,0
+2022-09-09,Daily Mail and Mail on Sunday,0,2
+2022-09-09,Daily Mirror,0,1
+2022-09-09,Metro,0,0
+2022-09-09,The Daily Telegraph,0,0
+2022-09-09,The Guardian,1,2
+2022-09-09,The Independent,2,2
+2022-09-09,The Sun,0,1
+2022-09-09,The Times and The Sunday Times,0,1
+2022-09-10,Daily Mail and Mail on Sunday,0,0
+2022-09-10,Daily Mirror,0,0
+2022-09-10,Metro,0,0
+2022-09-10,The Daily Telegraph,0,0
+2022-09-10,The Guardian,1,0
+2022-09-10,The Independent,1,0
+2022-09-10,The Sun,1,2
+2022-09-10,The Times and The Sunday Times,0,0
+2022-09-11,Daily Mail and Mail on Sunday,0,0
+2022-09-11,Daily Mirror,0,0
+2022-09-11,Metro,0,0
+2022-09-11,The Daily Telegraph,0,0
+2022-09-11,The Guardian,0,0
+2022-09-11,The Independent,0,0
+2022-09-11,The Sun,0,1
+2022-09-11,The Times and The Sunday Times,0,1
+2022-09-12,Daily Mail and Mail on Sunday,0,0
+2022-09-12,Daily Mirror,0,0
+2022-09-12,Metro,0,0
+2022-09-12,The Daily Telegraph,0,0
+2022-09-12,The Guardian,2,1
+2022-09-12,The Independent,1,1
+2022-09-12,The Sun,0,0
+2022-09-12,The Times and The Sunday Times,0,0
+2022-09-13,Daily Mail and Mail on Sunday,0,0
+2022-09-13,Daily Mirror,0,0
+2022-09-13,Metro,1,0
+2022-09-13,The Daily Telegraph,0,0
+2022-09-13,The Guardian,2,1
+2022-09-13,The Independent,0,1
+2022-09-13,The Sun,0,0
+2022-09-13,The Times and The Sunday Times,0,1
+2022-09-14,Daily Mail and Mail on Sunday,0,0
+2022-09-14,Daily Mirror,0,0
+2022-09-14,Metro,0,0
+2022-09-14,The Daily Telegraph,3,0
+2022-09-14,The Guardian,0,1
+2022-09-14,The Independent,1,1
+2022-09-14,The Sun,1,0
+2022-09-14,The Times and The Sunday Times,1,1
+2022-09-15,Daily Mail and Mail on Sunday,1,2
+2022-09-15,Daily Mirror,0,0
+2022-09-15,Metro,0,0
+2022-09-15,The Daily Telegraph,1,0
+2022-09-15,The Guardian,2,1
+2022-09-15,The Independent,0,2
+2022-09-15,The Sun,1,0
+2022-09-15,The Times and The Sunday Times,1,0
+2022-09-16,Daily Mail and Mail on Sunday,1,0
+2022-09-16,Daily Mirror,1,0
+2022-09-16,Metro,0,0
+2022-09-16,The Daily Telegraph,0,0
+2022-09-16,The Guardian,1,2
+2022-09-16,The Independent,2,0
+2022-09-16,The Sun,1,0
+2022-09-16,The Times and The Sunday Times,1,0
+2022-09-17,Daily Mail and Mail on Sunday,3,0
+2022-09-17,Daily Mirror,1,0
+2022-09-17,Metro,0,0
+2022-09-17,The Daily Telegraph,4,0
+2022-09-17,The Guardian,1,1
+2022-09-17,The Independent,1,0
+2022-09-17,The Sun,3,0
+2022-09-17,The Times and The Sunday Times,1,0
+2022-09-18,Daily Mail and Mail on Sunday,0,0
+2022-09-18,Daily Mirror,0,0
+2022-09-18,Metro,0,0
+2022-09-18,The Daily Telegraph,0,0
+2022-09-18,The Guardian,0,3
+2022-09-18,The Independent,0,3
+2022-09-18,The Sun,0,0
+2022-09-18,The Times and The Sunday Times,1,1
+2022-09-19,Daily Mail and Mail on Sunday,0,0
+2022-09-19,Daily Mirror,0,0
+2022-09-19,Metro,0,0
+2022-09-19,The Daily Telegraph,0,0
+2022-09-19,The Guardian,0,2
+2022-09-19,The Independent,2,2
+2022-09-19,The Sun,0,0
+2022-09-19,The Times and The Sunday Times,1,0
+2022-09-20,Daily Mail and Mail on Sunday,0,0
+2022-09-20,Daily Mirror,0,0
+2022-09-20,Metro,0,0
+2022-09-20,The Daily Telegraph,0,0
+2022-09-20,The Guardian,2,2
+2022-09-20,The Independent,4,6
+2022-09-20,The Sun,0,0
+2022-09-20,The Times and The Sunday Times,0,0
+2022-09-21,Daily Mail and Mail on Sunday,1,0
+2022-09-21,Daily Mirror,1,0
+2022-09-21,Metro,1,0
+2022-09-21,The Daily Telegraph,3,1
+2022-09-21,The Guardian,2,1
+2022-09-21,The Independent,2,2
+2022-09-21,The Sun,0,0
+2022-09-21,The Times and The Sunday Times,4,0
+2022-09-22,Daily Mail and Mail on Sunday,0,0
+2022-09-22,Daily Mirror,0,1
+2022-09-22,Metro,0,0
+2022-09-22,The Daily Telegraph,0,0
+2022-09-22,The Guardian,1,0
+2022-09-22,The Independent,1,2
+2022-09-22,The Sun,1,0
+2022-09-22,The Times and The Sunday Times,4,0
+2022-09-23,Daily Mail and Mail on Sunday,4,0
+2022-09-23,Daily Mirror,2,1
+2022-09-23,Metro,1,0
+2022-09-23,The Daily Telegraph,3,0
+2022-09-23,The Guardian,5,4
+2022-09-23,The Independent,6,6
+2022-09-23,The Sun,2,1
+2022-09-23,The Times and The Sunday Times,2,2
+2022-09-24,Daily Mail and Mail on Sunday,1,0
+2022-09-24,Daily Mirror,0,0
+2022-09-24,Metro,0,0
+2022-09-24,The Daily Telegraph,1,0
+2022-09-24,The Guardian,0,1
+2022-09-24,The Independent,3,4
+2022-09-24,The Sun,2,0
+2022-09-24,The Times and The Sunday Times,1,1
+2022-09-25,Daily Mail and Mail on Sunday,0,0
+2022-09-25,Daily Mirror,0,0
+2022-09-25,Metro,0,0
+2022-09-25,The Daily Telegraph,0,0
+2022-09-25,The Guardian,0,3
+2022-09-25,The Independent,1,5
+2022-09-25,The Sun,0,0
+2022-09-25,The Times and The Sunday Times,1,0
+2022-09-26,Daily Mail and Mail on Sunday,1,2
+2022-09-26,Daily Mirror,0,0
+2022-09-26,Metro,1,0
+2022-09-26,The Daily Telegraph,0,1
+2022-09-26,The Guardian,0,2
+2022-09-26,The Independent,4,3
+2022-09-26,The Sun,0,0
+2022-09-26,The Times and The Sunday Times,0,1
+2022-09-27,Daily Mail and Mail on Sunday,1,0
+2022-09-27,Daily Mirror,0,0
+2022-09-27,Metro,0,0
+2022-09-27,The Daily Telegraph,1,0
+2022-09-27,The Guardian,0,2
+2022-09-27,The Independent,3,3
+2022-09-27,The Sun,0,0
+2022-09-27,The Times and The Sunday Times,0,1
+2022-09-28,Daily Mail and Mail on Sunday,0,0
+2022-09-28,Daily Mirror,0,0
+2022-09-28,Metro,2,0
+2022-09-28,The Daily Telegraph,2,0
+2022-09-28,The Guardian,1,1
+2022-09-28,The Independent,4,3
+2022-09-28,The Sun,0,0
+2022-09-28,The Times and The Sunday Times,1,0
+2022-09-29,Daily Mail and Mail on Sunday,0,0
+2022-09-29,Daily Mirror,1,0
+2022-09-29,Metro,1,0
+2022-09-29,The Daily Telegraph,0,0
+2022-09-29,The Guardian,1,0
+2022-09-29,The Independent,1,7
+2022-09-29,The Sun,0,0
+2022-09-29,The Times and The Sunday Times,1,0
+2022-09-30,Daily Mail and Mail on Sunday,0,0
+2022-09-30,Daily Mirror,0,0
+2022-09-30,Metro,0,0
+2022-09-30,The Daily Telegraph,0,0
+2022-09-30,The Guardian,0,1
+2022-09-30,The Independent,3,6
+2022-09-30,The Sun,1,1
+2022-09-30,The Times and The Sunday Times,1,2
+2022-10-01,Daily Mail and Mail on Sunday,0,0
+2022-10-01,Daily Mirror,1,1
+2022-10-01,Metro,0,0
+2022-10-01,The Daily Telegraph,1,0
+2022-10-01,The Guardian,5,2
+2022-10-01,The Independent,2,6
+2022-10-01,The Sun,0,0
+2022-10-01,The Times and The Sunday Times,4,0
+2022-10-02,Daily Mail and Mail on Sunday,0,0
+2022-10-02,Daily Mirror,1,0
+2022-10-02,Metro,0,0
+2022-10-02,The Daily Telegraph,0,0
+2022-10-02,The Guardian,2,1
+2022-10-02,The Independent,0,6
+2022-10-02,The Sun,0,0
+2022-10-02,The Times and The Sunday Times,2,1
+2022-10-03,Daily Mail and Mail on Sunday,0,0
+2022-10-03,Daily Mirror,0,0
+2022-10-03,Metro,1,0
+2022-10-03,The Daily Telegraph,0,0
+2022-10-03,The Guardian,1,0
+2022-10-03,The Independent,0,1
+2022-10-03,The Sun,0,0
+2022-10-03,The Times and The Sunday Times,2,0
+2022-10-04,Daily Mail and Mail on Sunday,0,0
+2022-10-04,Daily Mirror,0,0
+2022-10-04,Metro,0,0
+2022-10-04,The Daily Telegraph,0,0
+2022-10-04,The Guardian,2,1
+2022-10-04,The Independent,1,11
+2022-10-04,The Sun,0,0
+2022-10-04,The Times and The Sunday Times,0,0
+2022-10-05,Daily Mail and Mail on Sunday,0,0
+2022-10-05,Daily Mirror,0,0
+2022-10-05,Metro,1,0
+2022-10-05,The Daily Telegraph,0,2
+2022-10-05,The Guardian,2,0
+2022-10-05,The Independent,2,3
+2022-10-05,The Sun,1,1
+2022-10-05,The Times and The Sunday Times,3,1
+2022-10-06,Daily Mail and Mail on Sunday,1,0
+2022-10-06,Daily Mirror,0,1
+2022-10-06,Metro,3,0
+2022-10-06,The Daily Telegraph,2,2
+2022-10-06,The Guardian,3,0
+2022-10-06,The Independent,2,3
+2022-10-06,The Sun,4,0
+2022-10-06,The Times and The Sunday Times,0,0
+2022-10-07,Daily Mail and Mail on Sunday,2,1
+2022-10-07,Daily Mirror,0,0
+2022-10-07,Metro,2,0
+2022-10-07,The Daily Telegraph,0,3
+2022-10-07,The Guardian,0,1
+2022-10-07,The Independent,0,2
+2022-10-07,The Sun,0,0
+2022-10-07,The Times and The Sunday Times,1,2
+2022-10-08,Daily Mail and Mail on Sunday,1,1
+2022-10-08,Daily Mirror,0,1
+2022-10-08,Metro,0,0
+2022-10-08,The Daily Telegraph,1,0
+2022-10-08,The Guardian,4,0
+2022-10-08,The Independent,1,0
+2022-10-08,The Sun,0,1
+2022-10-08,The Times and The Sunday Times,0,0
+2022-10-09,Daily Mail and Mail on Sunday,0,0
+2022-10-09,Daily Mirror,2,0
+2022-10-09,Metro,0,0
+2022-10-09,The Daily Telegraph,0,0
+2022-10-09,The Guardian,1,1
+2022-10-09,The Independent,0,1
+2022-10-09,The Sun,0,0
+2022-10-09,The Times and The Sunday Times,0,1
+2022-10-10,Daily Mail and Mail on Sunday,1,0
+2022-10-10,Daily Mirror,1,0
+2022-10-10,Metro,0,0
+2022-10-10,The Daily Telegraph,0,0
+2022-10-10,The Guardian,0,1
+2022-10-10,The Independent,6,8
+2022-10-10,The Sun,0,0
+2022-10-10,The Times and The Sunday Times,6,0
+2022-10-11,Daily Mail and Mail on Sunday,0,0
+2022-10-11,Daily Mirror,0,0
+2022-10-11,Metro,0,0
+2022-10-11,The Daily Telegraph,1,2
+2022-10-11,The Guardian,1,3
+2022-10-11,The Independent,3,6
+2022-10-11,The Sun,0,0
+2022-10-11,The Times and The Sunday Times,0,1
+2022-10-12,Daily Mail and Mail on Sunday,0,0
+2022-10-12,Daily Mirror,0,1
+2022-10-12,Metro,0,0
+2022-10-12,The Daily Telegraph,2,0
+2022-10-12,The Guardian,1,2
+2022-10-12,The Independent,0,4
+2022-10-12,The Sun,0,0
+2022-10-12,The Times and The Sunday Times,0,1
+2022-10-13,Daily Mail and Mail on Sunday,0,0
+2022-10-13,Daily Mirror,0,0
+2022-10-13,Metro,0,0
+2022-10-13,The Daily Telegraph,0,1
+2022-10-13,The Guardian,1,0
+2022-10-13,The Independent,2,1
+2022-10-13,The Sun,0,0
+2022-10-13,The Times and The Sunday Times,0,0
+2022-10-14,Daily Mail and Mail on Sunday,0,0
+2022-10-14,Daily Mirror,0,0
+2022-10-14,Metro,3,0
+2022-10-14,The Daily Telegraph,0,1
+2022-10-14,The Guardian,2,0
+2022-10-14,The Independent,5,3
+2022-10-14,The Sun,1,0
+2022-10-14,The Times and The Sunday Times,1,0
+2022-10-15,Daily Mail and Mail on Sunday,1,0
+2022-10-15,Daily Mirror,2,0
+2022-10-15,Metro,0,0
+2022-10-15,The Daily Telegraph,3,0
+2022-10-15,The Guardian,0,1
+2022-10-15,The Independent,1,0
+2022-10-15,The Sun,1,0
+2022-10-15,The Times and The Sunday Times,5,0
+2022-10-16,Daily Mail and Mail on Sunday,1,0
+2022-10-16,Daily Mirror,0,1
+2022-10-16,Metro,0,0
+2022-10-16,The Daily Telegraph,0,0
+2022-10-16,The Guardian,2,0
+2022-10-16,The Independent,2,1
+2022-10-16,The Sun,0,0
+2022-10-16,The Times and The Sunday Times,1,2
+2022-10-17,Daily Mail and Mail on Sunday,0,0
+2022-10-17,Daily Mirror,3,0
+2022-10-17,Metro,0,0
+2022-10-17,The Daily Telegraph,0,0
+2022-10-17,The Guardian,0,0
+2022-10-17,The Independent,5,0
+2022-10-17,The Sun,1,0
+2022-10-17,The Times and The Sunday Times,1,0
+2022-10-18,Daily Mail and Mail on Sunday,0,0
+2022-10-18,Daily Mirror,2,0
+2022-10-18,Metro,0,0
+2022-10-18,The Daily Telegraph,0,0
+2022-10-18,The Guardian,2,1
+2022-10-18,The Independent,4,3
+2022-10-18,The Sun,0,0
+2022-10-18,The Times and The Sunday Times,1,0
+2022-10-19,Daily Mail and Mail on Sunday,1,0
+2022-10-19,Daily Mirror,1,0
+2022-10-19,Metro,4,0
+2022-10-19,The Daily Telegraph,2,0
+2022-10-19,The Guardian,3,1
+2022-10-19,The Independent,8,2
+2022-10-19,The Sun,4,0
+2022-10-19,The Times and The Sunday Times,9,1
+2022-10-20,Daily Mail and Mail on Sunday,1,0
+2022-10-20,Daily Mirror,2,0
+2022-10-20,Metro,1,0
+2022-10-20,The Daily Telegraph,0,1
+2022-10-20,The Guardian,4,0
+2022-10-20,The Independent,5,3
+2022-10-20,The Sun,0,0
+2022-10-20,The Times and The Sunday Times,3,0
+2022-10-21,Daily Mail and Mail on Sunday,0,0
+2022-10-21,Daily Mirror,2,0
+2022-10-21,Metro,0,0
+2022-10-21,The Daily Telegraph,0,0
+2022-10-21,The Guardian,0,0
+2022-10-21,The Independent,1,3
+2022-10-21,The Sun,0,0
+2022-10-21,The Times and The Sunday Times,0,1
+2022-10-22,Daily Mail and Mail on Sunday,0,0
+2022-10-22,Daily Mirror,0,0
+2022-10-22,Metro,0,0
+2022-10-22,The Daily Telegraph,1,0
+2022-10-22,The Guardian,0,1
+2022-10-22,The Independent,5,3
+2022-10-22,The Sun,1,0
+2022-10-22,The Times and The Sunday Times,2,0
+2022-10-23,Daily Mail and Mail on Sunday,0,0
+2022-10-23,Daily Mirror,0,0
+2022-10-23,Metro,0,0
+2022-10-23,The Daily Telegraph,0,0
+2022-10-23,The Guardian,2,2
+2022-10-23,The Independent,4,4
+2022-10-23,The Sun,1,0
+2022-10-23,The Times and The Sunday Times,2,1
+2022-10-24,Daily Mail and Mail on Sunday,0,0
+2022-10-24,Daily Mirror,1,0
+2022-10-24,Metro,0,0
+2022-10-24,The Daily Telegraph,2,0
+2022-10-24,The Guardian,0,3
+2022-10-24,The Independent,4,4
+2022-10-24,The Sun,1,0
+2022-10-24,The Times and The Sunday Times,1,1
+2022-10-25,Daily Mail and Mail on Sunday,1,0
+2022-10-25,Daily Mirror,0,0
+2022-10-25,Metro,0,0
+2022-10-25,The Daily Telegraph,4,0
+2022-10-25,The Guardian,1,2
+2022-10-25,The Independent,4,5
+2022-10-25,The Sun,1,1
+2022-10-25,The Times and The Sunday Times,3,1
+2022-10-26,Daily Mail and Mail on Sunday,0,1
+2022-10-26,Daily Mirror,0,1
+2022-10-26,Metro,0,1
+2022-10-26,The Daily Telegraph,1,1
+2022-10-26,The Guardian,3,0
+2022-10-26,The Independent,0,3
+2022-10-26,The Sun,0,0
+2022-10-26,The Times and The Sunday Times,0,0
+2022-10-27,Daily Mail and Mail on Sunday,1,0
+2022-10-27,Daily Mirror,1,0
+2022-10-27,Metro,0,0
+2022-10-27,The Daily Telegraph,0,0
+2022-10-27,The Guardian,0,0
+2022-10-27,The Independent,2,3
+2022-10-27,The Sun,1,0
+2022-10-27,The Times and The Sunday Times,2,0
+2022-10-28,Daily Mail and Mail on Sunday,1,0
+2022-10-28,Daily Mirror,0,0
+2022-10-28,Metro,0,1
+2022-10-28,The Daily Telegraph,1,0
+2022-10-28,The Guardian,1,1
+2022-10-28,The Independent,0,6
+2022-10-28,The Sun,0,0
+2022-10-28,The Times and The Sunday Times,0,0
+2022-10-29,Daily Mail and Mail on Sunday,0,0
+2022-10-29,Daily Mirror,0,0
+2022-10-29,Metro,0,0
+2022-10-29,The Daily Telegraph,0,1
+2022-10-29,The Guardian,0,0
+2022-10-29,The Independent,0,0
+2022-10-29,The Sun,1,0
+2022-10-29,The Times and The Sunday Times,0,1
+2022-10-30,Daily Mail and Mail on Sunday,0,0
+2022-10-30,Daily Mirror,0,0
+2022-10-30,Metro,0,0
+2022-10-30,The Daily Telegraph,0,0
+2022-10-30,The Guardian,0,0
+2022-10-30,The Independent,0,1
+2022-10-30,The Sun,0,0
+2022-10-30,The Times and The Sunday Times,0,0
+2022-10-31,Daily Mail and Mail on Sunday,0,0
+2022-10-31,Daily Mirror,0,0
+2022-10-31,Metro,0,0
+2022-10-31,The Daily Telegraph,2,0
+2022-10-31,The Guardian,0,3
+2022-10-31,The Independent,1,4
+2022-10-31,The Sun,0,1
+2022-10-31,The Times and The Sunday Times,0,4
+2022-11-01,Daily Mail and Mail on Sunday,0,0
+2022-11-01,Daily Mirror,0,0
+2022-11-01,Metro,0,0
+2022-11-01,The Daily Telegraph,2,0
+2022-11-01,The Guardian,1,0
+2022-11-01,The Independent,3,2
+2022-11-01,The Sun,1,0
+2022-11-01,The Times and The Sunday Times,6,1
+2022-11-02,Daily Mail and Mail on Sunday,1,0
+2022-11-02,Daily Mirror,0,0
+2022-11-02,Metro,0,1
+2022-11-02,The Daily Telegraph,0,1
+2022-11-02,The Guardian,1,0
+2022-11-02,The Independent,7,3
+2022-11-02,The Sun,0,0
+2022-11-02,The Times and The Sunday Times,0,1
+2022-11-03,Daily Mail and Mail on Sunday,0,0
+2022-11-03,Daily Mirror,0,0
+2022-11-03,Metro,1,1
+2022-11-03,The Daily Telegraph,1,0
+2022-11-03,The Guardian,2,0
+2022-11-03,The Independent,6,2
+2022-11-03,The Sun,1,0
+2022-11-03,The Times and The Sunday Times,2,2
+2022-11-04,Daily Mail and Mail on Sunday,1,1
+2022-11-04,Daily Mirror,0,0
+2022-11-04,Metro,2,0
+2022-11-04,The Daily Telegraph,3,1
+2022-11-04,The Guardian,2,2
+2022-11-04,The Independent,3,3
+2022-11-04,The Sun,2,0
+2022-11-04,The Times and The Sunday Times,5,2
+2022-11-05,Daily Mail and Mail on Sunday,0,0
+2022-11-05,Daily Mirror,4,1
+2022-11-05,Metro,0,0
+2022-11-05,The Daily Telegraph,3,1
+2022-11-05,The Guardian,0,1
+2022-11-05,The Independent,2,2
+2022-11-05,The Sun,2,0
+2022-11-05,The Times and The Sunday Times,0,0
+2022-11-06,Daily Mail and Mail on Sunday,1,0
+2022-11-06,Daily Mirror,1,0
+2022-11-06,Metro,0,0
+2022-11-06,The Daily Telegraph,0,0
+2022-11-06,The Guardian,1,1
+2022-11-06,The Independent,2,5
+2022-11-06,The Sun,0,0
+2022-11-06,The Times and The Sunday Times,0,0
+2022-11-07,Daily Mail and Mail on Sunday,2,0
+2022-11-07,Daily Mirror,2,2
+2022-11-07,Metro,3,0
+2022-11-07,The Daily Telegraph,2,1
+2022-11-07,The Guardian,1,0
+2022-11-07,The Independent,4,7
+2022-11-07,The Sun,0,0
+2022-11-07,The Times and The Sunday Times,5,1
+2022-11-08,Daily Mail and Mail on Sunday,3,0
+2022-11-08,Daily Mirror,0,0
+2022-11-08,Metro,0,0
+2022-11-08,The Daily Telegraph,2,1
+2022-11-08,The Guardian,1,1
+2022-11-08,The Independent,3,4
+2022-11-08,The Sun,0,0
+2022-11-08,The Times and The Sunday Times,2,1
+2022-11-09,Daily Mail and Mail on Sunday,2,0
+2022-11-09,Daily Mirror,0,1
+2022-11-09,Metro,0,0
+2022-11-09,The Daily Telegraph,2,0
+2022-11-09,The Guardian,2,1
+2022-11-09,The Independent,6,4
+2022-11-09,The Sun,0,0
+2022-11-09,The Times and The Sunday Times,2,0
+2022-11-10,Daily Mail and Mail on Sunday,1,0
+2022-11-10,Daily Mirror,5,3
+2022-11-10,Metro,0,0
+2022-11-10,The Daily Telegraph,0,0
+2022-11-10,The Guardian,6,5
+2022-11-10,The Independent,6,11
+2022-11-10,The Sun,7,0
+2022-11-10,The Times and The Sunday Times,0,0
+2022-11-11,Daily Mail and Mail on Sunday,2,0
+2022-11-11,Daily Mirror,2,0
+2022-11-11,Metro,0,0
+2022-11-11,The Daily Telegraph,6,1
+2022-11-11,The Guardian,1,2
+2022-11-11,The Independent,4,3
+2022-11-11,The Sun,5,0
+2022-11-11,The Times and The Sunday Times,3,1
+2022-11-12,Daily Mail and Mail on Sunday,0,0
+2022-11-12,Daily Mirror,1,2
+2022-11-12,Metro,0,0
+2022-11-12,The Daily Telegraph,2,2
+2022-11-12,The Guardian,1,1
+2022-11-12,The Independent,4,1
+2022-11-12,The Sun,2,0
+2022-11-12,The Times and The Sunday Times,4,0
+2022-11-13,Daily Mail and Mail on Sunday,2,0
+2022-11-13,Daily Mirror,0,0
+2022-11-13,Metro,0,0
+2022-11-13,The Daily Telegraph,0,0
+2022-11-13,The Guardian,0,0
+2022-11-13,The Independent,3,5
+2022-11-13,The Sun,0,0
+2022-11-13,The Times and The Sunday Times,1,3
+2022-11-14,Daily Mail and Mail on Sunday,0,0
+2022-11-14,Daily Mirror,4,0
+2022-11-14,Metro,0,0
+2022-11-14,The Daily Telegraph,2,0
+2022-11-14,The Guardian,2,0
+2022-11-14,The Independent,2,2
+2022-11-14,The Sun,0,0
+2022-11-14,The Times and The Sunday Times,3,0
+2022-11-15,Daily Mail and Mail on Sunday,1,0
+2022-11-15,Daily Mirror,0,0
+2022-11-15,Metro,0,0
+2022-11-15,The Daily Telegraph,1,2
+2022-11-15,The Guardian,4,0
+2022-11-15,The Independent,3,7
+2022-11-15,The Sun,1,0
+2022-11-15,The Times and The Sunday Times,1,2
+2022-11-16,Daily Mail and Mail on Sunday,1,0
+2022-11-16,Daily Mirror,0,0
+2022-11-16,Metro,0,0
+2022-11-16,The Daily Telegraph,1,0
+2022-11-16,The Guardian,0,2
+2022-11-16,The Independent,9,9
+2022-11-16,The Sun,0,0
+2022-11-16,The Times and The Sunday Times,0,0
+2022-11-17,Daily Mail and Mail on Sunday,0,0
+2022-11-17,Daily Mirror,0,0
+2022-11-17,Metro,0,0
+2022-11-17,The Daily Telegraph,1,0
+2022-11-17,The Guardian,5,2
+2022-11-17,The Independent,5,3
+2022-11-17,The Sun,2,0
+2022-11-17,The Times and The Sunday Times,0,0
+2022-11-18,Daily Mail and Mail on Sunday,2,0
+2022-11-18,Daily Mirror,1,0
+2022-11-18,Metro,1,0
+2022-11-18,The Daily Telegraph,1,1
+2022-11-18,The Guardian,3,0
+2022-11-18,The Independent,6,2
+2022-11-18,The Sun,0,0
+2022-11-18,The Times and The Sunday Times,7,0
+2022-11-19,Daily Mail and Mail on Sunday,2,0
+2022-11-19,Daily Mirror,0,0
+2022-11-19,Metro,0,0
+2022-11-19,The Daily Telegraph,1,0
+2022-11-19,The Guardian,0,1
+2022-11-19,The Independent,1,4
+2022-11-19,The Sun,1,0
+2022-11-19,The Times and The Sunday Times,4,2
+2022-11-20,Daily Mail and Mail on Sunday,1,1
+2022-11-20,Daily Mirror,0,0
+2022-11-20,Metro,0,0
+2022-11-20,The Daily Telegraph,0,0
+2022-11-20,The Guardian,2,1
+2022-11-20,The Independent,3,2
+2022-11-20,The Sun,0,0
+2022-11-20,The Times and The Sunday Times,0,0
+2022-11-21,Daily Mail and Mail on Sunday,0,0
+2022-11-21,Daily Mirror,0,0
+2022-11-21,Metro,0,1
+2022-11-21,The Daily Telegraph,1,0
+2022-11-21,The Guardian,0,1
+2022-11-21,The Independent,3,2
+2022-11-21,The Sun,0,0
+2022-11-21,The Times and The Sunday Times,0,0
+2022-11-22,Daily Mail and Mail on Sunday,1,0
+2022-11-22,Daily Mirror,0,0
+2022-11-22,Metro,1,0
+2022-11-22,The Daily Telegraph,1,1
+2022-11-22,The Guardian,2,1
+2022-11-22,The Independent,4,0
+2022-11-22,The Sun,2,0
+2022-11-22,The Times and The Sunday Times,2,0
+2022-11-23,Daily Mail and Mail on Sunday,3,0
+2022-11-23,Daily Mirror,7,0
+2022-11-23,Metro,2,1
+2022-11-23,The Daily Telegraph,4,2
+2022-11-23,The Guardian,4,2
+2022-11-23,The Independent,8,3
+2022-11-23,The Sun,3,0
+2022-11-23,The Times and The Sunday Times,4,1
+2022-11-24,Daily Mail and Mail on Sunday,1,0
+2022-11-24,Daily Mirror,0,0
+2022-11-24,Metro,2,0
+2022-11-24,The Daily Telegraph,1,0
+2022-11-24,The Guardian,4,1
+2022-11-24,The Independent,6,3
+2022-11-24,The Sun,2,0
+2022-11-24,The Times and The Sunday Times,4,0
+2022-11-25,Daily Mail and Mail on Sunday,6,0
+2022-11-25,Daily Mirror,4,0
+2022-11-25,Metro,2,0
+2022-11-25,The Daily Telegraph,1,1
+2022-11-25,The Guardian,2,3
+2022-11-25,The Independent,8,6
+2022-11-25,The Sun,3,1
+2022-11-25,The Times and The Sunday Times,5,3
+2022-11-26,Daily Mail and Mail on Sunday,6,0
+2022-11-26,Daily Mirror,5,0
+2022-11-26,Metro,0,0
+2022-11-26,The Daily Telegraph,7,1
+2022-11-26,The Guardian,1,1
+2022-11-26,The Independent,6,1
+2022-11-26,The Sun,1,2
+2022-11-26,The Times and The Sunday Times,1,1
+2022-11-27,Daily Mail and Mail on Sunday,0,0
+2022-11-27,Daily Mirror,1,1
+2022-11-27,Metro,0,0
+2022-11-27,The Daily Telegraph,0,0
+2022-11-27,The Guardian,0,0
+2022-11-27,The Independent,5,1
+2022-11-27,The Sun,1,0
+2022-11-27,The Times and The Sunday Times,0,0
+2022-11-28,Daily Mail and Mail on Sunday,0,1
+2022-11-28,Daily Mirror,1,0
+2022-11-28,Metro,0,0
+2022-11-28,The Daily Telegraph,1,0
+2022-11-28,The Guardian,2,1
+2022-11-28,The Independent,6,3
+2022-11-28,The Sun,1,1
+2022-11-28,The Times and The Sunday Times,2,0
+2022-11-29,Daily Mail and Mail on Sunday,1,0
+2022-11-29,Daily Mirror,3,0
+2022-11-29,Metro,1,0
+2022-11-29,The Daily Telegraph,1,0
+2022-11-29,The Guardian,2,0
+2022-11-29,The Independent,6,7
+2022-11-29,The Sun,0,0
+2022-11-29,The Times and The Sunday Times,1,2
+2022-11-30,Daily Mail and Mail on Sunday,3,1
+2022-11-30,Daily Mirror,4,0
+2022-11-30,Metro,0,1
+2022-11-30,The Daily Telegraph,1,1
+2022-11-30,The Guardian,3,1
+2022-11-30,The Independent,12,12
+2022-11-30,The Sun,1,0
+2022-11-30,The Times and The Sunday Times,2,2
+2022-12-01,Daily Mail and Mail on Sunday,1,0
+2022-12-01,Daily Mirror,4,0
+2022-12-01,Metro,1,0
+2022-12-01,The Daily Telegraph,2,0
+2022-12-01,The Guardian,5,2
+2022-12-01,The Independent,7,3
+2022-12-01,The Sun,2,0
+2022-12-01,The Times and The Sunday Times,6,0
+2022-12-02,Daily Mail and Mail on Sunday,2,0
+2022-12-02,Daily Mirror,1,1
+2022-12-02,Metro,0,0
+2022-12-02,The Daily Telegraph,2,1
+2022-12-02,The Guardian,2,5
+2022-12-02,The Independent,7,4
+2022-12-02,The Sun,1,0
+2022-12-02,The Times and The Sunday Times,5,0
+2022-12-03,Daily Mail and Mail on Sunday,2,0
+2022-12-03,Daily Mirror,1,2
+2022-12-03,Metro,0,0
+2022-12-03,The Daily Telegraph,4,0
+2022-12-03,The Guardian,1,0
+2022-12-03,The Independent,4,1
+2022-12-03,The Sun,4,0
+2022-12-03,The Times and The Sunday Times,7,1
+2022-12-04,Daily Mail and Mail on Sunday,0,0
+2022-12-04,Daily Mirror,0,0
+2022-12-04,Metro,0,0
+2022-12-04,The Daily Telegraph,0,0
+2022-12-04,The Guardian,1,0
+2022-12-04,The Independent,6,2
+2022-12-04,The Sun,0,0
+2022-12-04,The Times and The Sunday Times,3,2
+2022-12-05,Daily Mail and Mail on Sunday,1,0
+2022-12-05,Daily Mirror,0,0
+2022-12-05,Metro,4,0
+2022-12-05,The Daily Telegraph,1,1
+2022-12-05,The Guardian,1,2
+2022-12-05,The Independent,16,2
+2022-12-05,The Sun,3,0
+2022-12-05,The Times and The Sunday Times,8,0
+2022-12-06,Daily Mail and Mail on Sunday,1,0
+2022-12-06,Daily Mirror,0,1
+2022-12-06,Metro,2,0
+2022-12-06,The Daily Telegraph,2,1
+2022-12-06,The Guardian,3,3
+2022-12-06,The Independent,10,5
+2022-12-06,The Sun,0,0
+2022-12-06,The Times and The Sunday Times,2,0
+2022-12-07,Daily Mail and Mail on Sunday,5,1
+2022-12-07,Daily Mirror,4,1
+2022-12-07,Metro,2,0
+2022-12-07,The Daily Telegraph,4,1
+2022-12-07,The Guardian,6,0
+2022-12-07,The Independent,15,2
+2022-12-07,The Sun,2,0
+2022-12-07,The Times and The Sunday Times,5,4
+2022-12-08,Daily Mail and Mail on Sunday,4,0
+2022-12-08,Daily Mirror,5,1
+2022-12-08,Metro,2,0
+2022-12-08,The Daily Telegraph,6,1
+2022-12-08,The Guardian,5,3
+2022-12-08,The Independent,15,1
+2022-12-08,The Sun,3,0
+2022-12-08,The Times and The Sunday Times,6,0
+2022-12-09,Daily Mail and Mail on Sunday,4,0
+2022-12-09,Daily Mirror,4,0
+2022-12-09,Metro,1,0
+2022-12-09,The Daily Telegraph,6,3
+2022-12-09,The Guardian,5,1
+2022-12-09,The Independent,11,1
+2022-12-09,The Sun,2,1
+2022-12-09,The Times and The Sunday Times,4,0
+2022-12-10,Daily Mail and Mail on Sunday,4,0
+2022-12-10,Daily Mirror,0,3
+2022-12-10,Metro,0,0
+2022-12-10,The Daily Telegraph,3,3
+2022-12-10,The Guardian,0,1
+2022-12-10,The Independent,5,1
+2022-12-10,The Sun,3,0
+2022-12-10,The Times and The Sunday Times,2,1
+2022-12-11,Daily Mail and Mail on Sunday,4,0
+2022-12-11,Daily Mirror,0,0
+2022-12-11,Metro,0,0
+2022-12-11,The Daily Telegraph,0,0
+2022-12-11,The Guardian,3,0
+2022-12-11,The Independent,9,0
+2022-12-11,The Sun,3,1
+2022-12-11,The Times and The Sunday Times,7,0
+2022-12-12,Daily Mail and Mail on Sunday,5,0
+2022-12-12,Daily Mirror,3,1
+2022-12-12,Metro,4,0
+2022-12-12,The Daily Telegraph,5,2
+2022-12-12,The Guardian,7,4
+2022-12-12,The Independent,17,12
+2022-12-12,The Sun,5,1
+2022-12-12,The Times and The Sunday Times,4,2
+2022-12-13,Daily Mail and Mail on Sunday,5,0
+2022-12-13,Daily Mirror,2,0
+2022-12-13,Metro,0,1
+2022-12-13,The Daily Telegraph,10,1
+2022-12-13,The Guardian,3,3
+2022-12-13,The Independent,25,7
+2022-12-13,The Sun,1,0
+2022-12-13,The Times and The Sunday Times,6,3
+2022-12-14,Daily Mail and Mail on Sunday,3,2
+2022-12-14,Daily Mirror,4,4
+2022-12-14,Metro,0,0
+2022-12-14,The Daily Telegraph,3,1
+2022-12-14,The Guardian,6,0
+2022-12-14,The Independent,8,3
+2022-12-14,The Sun,0,0
+2022-12-14,The Times and The Sunday Times,5,5
+2022-12-15,Daily Mail and Mail on Sunday,3,2
+2022-12-15,Daily Mirror,4,3
+2022-12-15,Metro,3,0
+2022-12-15,The Daily Telegraph,4,2
+2022-12-15,The Guardian,3,2
+2022-12-15,The Independent,28,16
+2022-12-15,The Sun,3,0
+2022-12-15,The Times and The Sunday Times,10,2
+2022-12-16,Daily Mail and Mail on Sunday,3,0
+2022-12-16,Daily Mirror,5,2
+2022-12-16,Metro,1,0
+2022-12-16,The Daily Telegraph,8,1
+2022-12-16,The Guardian,3,1
+2022-12-16,The Independent,16,5
+2022-12-16,The Sun,3,1
+2022-12-16,The Times and The Sunday Times,7,3
+2022-12-17,Daily Mail and Mail on Sunday,2,0
+2022-12-17,Daily Mirror,3,0
+2022-12-17,Metro,0,0
+2022-12-17,The Daily Telegraph,7,3
+2022-12-17,The Guardian,2,0
+2022-12-17,The Independent,10,6
+2022-12-17,The Sun,1,0
+2022-12-17,The Times and The Sunday Times,10,4
+2022-12-18,Daily Mail and Mail on Sunday,2,1
+2022-12-18,Daily Mirror,0,3
+2022-12-18,Metro,0,0
+2022-12-18,The Daily Telegraph,0,0
+2022-12-18,The Guardian,2,2
+2022-12-18,The Independent,11,5
+2022-12-18,The Sun,1,0
+2022-12-18,The Times and The Sunday Times,4,3
+2022-12-19,Daily Mail and Mail on Sunday,2,5
+2022-12-19,Daily Mirror,2,1
+2022-12-19,Metro,3,0
+2022-12-19,The Daily Telegraph,4,2
+2022-12-19,The Guardian,3,2
+2022-12-19,The Independent,14,5
+2022-12-19,The Sun,3,0
+2022-12-19,The Times and The Sunday Times,5,2
+2022-12-20,Daily Mail and Mail on Sunday,4,2
+2022-12-20,Daily Mirror,2,1
+2022-12-20,Metro,1,1
+2022-12-20,The Daily Telegraph,7,1
+2022-12-20,The Guardian,6,1
+2022-12-20,The Independent,15,11
+2022-12-20,The Sun,2,0
+2022-12-20,The Times and The Sunday Times,5,1
+2022-12-21,Daily Mail and Mail on Sunday,7,0
+2022-12-21,Daily Mirror,7,0
+2022-12-21,Metro,2,0
+2022-12-21,The Daily Telegraph,5,0
+2022-12-21,The Guardian,3,1
+2022-12-21,The Independent,19,3
+2022-12-21,The Sun,4,0
+2022-12-21,The Times and The Sunday Times,5,0
+2022-12-22,Daily Mail and Mail on Sunday,3,1
+2022-12-22,Daily Mirror,8,1
+2022-12-22,Metro,2,0
+2022-12-22,The Daily Telegraph,8,1
+2022-12-22,The Guardian,1,0
+2022-12-22,The Independent,19,6
+2022-12-22,The Sun,4,0
+2022-12-22,The Times and The Sunday Times,15,2
+2022-12-23,Daily Mail and Mail on Sunday,4,1
+2022-12-23,Daily Mirror,0,0
+2022-12-23,Metro,0,0
+2022-12-23,The Daily Telegraph,5,1
+2022-12-23,The Guardian,4,1
+2022-12-23,The Independent,17,5
+2022-12-23,The Sun,1,0
+2022-12-23,The Times and The Sunday Times,4,2
+2022-12-24,Daily Mail and Mail on Sunday,2,0
+2022-12-24,Daily Mirror,6,0
+2022-12-24,Metro,0,0
+2022-12-24,The Daily Telegraph,4,1
+2022-12-24,The Guardian,3,0
+2022-12-24,The Independent,9,5
+2022-12-24,The Sun,2,3
+2022-12-24,The Times and The Sunday Times,5,5
+2022-12-25,Daily Mail and Mail on Sunday,0,0
+2022-12-25,Daily Mirror,0,0
+2022-12-25,Metro,0,0
+2022-12-25,The Daily Telegraph,0,0
+2022-12-25,The Guardian,0,0
+2022-12-25,The Independent,3,2
+2022-12-25,The Sun,0,0
+2022-12-25,The Times and The Sunday Times,0,0
+2022-12-26,Daily Mail and Mail on Sunday,1,1
+2022-12-26,Daily Mirror,0,0
+2022-12-26,Metro,0,0
+2022-12-26,The Daily Telegraph,1,1
+2022-12-26,The Guardian,2,0
+2022-12-26,The Independent,1,5
+2022-12-26,The Sun,0,1
+2022-12-26,The Times and The Sunday Times,2,4
+2022-12-27,Daily Mail and Mail on Sunday,0,0
+2022-12-27,Daily Mirror,1,1
+2022-12-27,Metro,0,0
+2022-12-27,The Daily Telegraph,1,2
+2022-12-27,The Guardian,1,0
+2022-12-27,The Independent,10,5
+2022-12-27,The Sun,2,0
+2022-12-27,The Times and The Sunday Times,2,1
+2022-12-28,Daily Mail and Mail on Sunday,3,1
+2022-12-28,Daily Mirror,4,0
+2022-12-28,Metro,0,0
+2022-12-28,The Daily Telegraph,5,0
+2022-12-28,The Guardian,2,1
+2022-12-28,The Independent,6,0
+2022-12-28,The Sun,1,1
+2022-12-28,The Times and The Sunday Times,1,0
+2022-12-29,Daily Mail and Mail on Sunday,2,0
+2022-12-29,Daily Mirror,4,2
+2022-12-29,Metro,0,0
+2022-12-29,The Daily Telegraph,1,0
+2022-12-29,The Guardian,3,0
+2022-12-29,The Independent,9,5
+2022-12-29,The Sun,1,0
+2022-12-29,The Times and The Sunday Times,2,1
+2022-12-30,Daily Mail and Mail on Sunday,4,0
+2022-12-30,Daily Mirror,0,0
+2022-12-30,Metro,0,0
+2022-12-30,The Daily Telegraph,3,0
+2022-12-30,The Guardian,1,2
+2022-12-30,The Independent,4,4
+2022-12-30,The Sun,3,0
+2022-12-30,The Times and The Sunday Times,0,1
+2022-12-31,Daily Mail and Mail on Sunday,1,0
+2022-12-31,Daily Mirror,0,0
+2022-12-31,Metro,0,0
+2022-12-31,The Daily Telegraph,1,1
+2022-12-31,The Guardian,4,0
+2022-12-31,The Independent,5,1
+2022-12-31,The Sun,1,0
+2022-12-31,The Times and The Sunday Times,4,4
+2023-01-01,Daily Mail and Mail on Sunday,1,0
+2023-01-01,Daily Mirror,0,0
+2023-01-01,Metro,0,0
+2023-01-01,The Daily Telegraph,0,0
+2023-01-01,The Guardian,0,1
+2023-01-01,The Independent,6,5
+2023-01-01,The Sun,2,0
+2023-01-01,The Times and The Sunday Times,3,1
+2023-01-02,Daily Mail and Mail on Sunday,3,2
+2023-01-02,Daily Mirror,2,0
+2023-01-02,Metro,0,0
+2023-01-02,The Daily Telegraph,3,0
+2023-01-02,The Guardian,3,0
+2023-01-02,The Independent,11,4
+2023-01-02,The Sun,1,0
+2023-01-02,The Times and The Sunday Times,2,4
+2023-01-03,Daily Mail and Mail on Sunday,1,0
+2023-01-03,Daily Mirror,3,0
+2023-01-03,Metro,0,0
+2023-01-03,The Daily Telegraph,2,1
+2023-01-03,The Guardian,5,1
+2023-01-03,The Independent,12,5
+2023-01-03,The Sun,2,1
+2023-01-03,The Times and The Sunday Times,3,0
+2023-01-04,Daily Mail and Mail on Sunday,1,0
+2023-01-04,Daily Mirror,0,0
+2023-01-04,Metro,0,0
+2023-01-04,The Daily Telegraph,4,1
+2023-01-04,The Guardian,6,3
+2023-01-04,The Independent,8,10
+2023-01-04,The Sun,3,1
+2023-01-04,The Times and The Sunday Times,3,0
+2023-01-05,Daily Mail and Mail on Sunday,1,0
+2023-01-05,Daily Mirror,5,0
+2023-01-05,Metro,0,0
+2023-01-05,The Daily Telegraph,0,0
+2023-01-05,The Guardian,4,2
+2023-01-05,The Independent,8,4
+2023-01-05,The Sun,3,1
+2023-01-05,The Times and The Sunday Times,3,2
+2023-01-06,Daily Mail and Mail on Sunday,2,0
+2023-01-06,Daily Mirror,5,0
+2023-01-06,Metro,0,0
+2023-01-06,The Daily Telegraph,3,1
+2023-01-06,The Guardian,2,2
+2023-01-06,The Independent,10,8
+2023-01-06,The Sun,3,0
+2023-01-06,The Times and The Sunday Times,3,4
+2023-01-07,Daily Mail and Mail on Sunday,2,1
+2023-01-07,Daily Mirror,3,0
+2023-01-07,Metro,0,0
+2023-01-07,The Daily Telegraph,5,0
+2023-01-07,The Guardian,1,0
+2023-01-07,The Independent,7,4
+2023-01-07,The Sun,4,0
+2023-01-07,The Times and The Sunday Times,4,2
+2023-01-08,Daily Mail and Mail on Sunday,1,0
+2023-01-08,Daily Mirror,2,0
+2023-01-08,Metro,0,0
+2023-01-08,The Daily Telegraph,0,0
+2023-01-08,The Guardian,2,2
+2023-01-08,The Independent,8,6
+2023-01-08,The Sun,1,2
+2023-01-08,The Times and The Sunday Times,3,3
+2023-01-09,Daily Mail and Mail on Sunday,2,1
+2023-01-09,Daily Mirror,1,0
+2023-01-09,Metro,1,2
+2023-01-09,The Daily Telegraph,2,0
+2023-01-09,The Guardian,4,3
+2023-01-09,The Independent,14,6
+2023-01-09,The Sun,1,0
+2023-01-09,The Times and The Sunday Times,0,8
+2023-01-10,Daily Mail and Mail on Sunday,2,1
+2023-01-10,Daily Mirror,4,1
+2023-01-10,Metro,2,1
+2023-01-10,The Daily Telegraph,2,1
+2023-01-10,The Guardian,5,1
+2023-01-10,The Independent,9,9
+2023-01-10,The Sun,2,1
+2023-01-10,The Times and The Sunday Times,4,0
+2023-01-11,Daily Mail and Mail on Sunday,3,2
+2023-01-11,Daily Mirror,1,0
+2023-01-11,Metro,2,0
+2023-01-11,The Daily Telegraph,3,2
+2023-01-11,The Guardian,9,1
+2023-01-11,The Independent,22,4
+2023-01-11,The Sun,1,0
+2023-01-11,The Times and The Sunday Times,7,1
+2023-01-12,Daily Mail and Mail on Sunday,4,0
+2023-01-12,Daily Mirror,4,0
+2023-01-12,Metro,3,0
+2023-01-12,The Daily Telegraph,4,1
+2023-01-12,The Guardian,4,3
+2023-01-12,The Independent,5,8
+2023-01-12,The Sun,1,0
+2023-01-12,The Times and The Sunday Times,3,2
+2023-01-13,Daily Mail and Mail on Sunday,3,1
+2023-01-13,Daily Mirror,0,0
+2023-01-13,Metro,1,2
+2023-01-13,The Daily Telegraph,1,2
+2023-01-13,The Guardian,2,1
+2023-01-13,The Independent,4,6
+2023-01-13,The Sun,1,0
+2023-01-13,The Times and The Sunday Times,4,1
+2023-01-14,Daily Mail and Mail on Sunday,1,3
+2023-01-14,Daily Mirror,1,1
+2023-01-14,Metro,0,0
+2023-01-14,The Daily Telegraph,2,1
+2023-01-14,The Guardian,1,1
+2023-01-14,The Independent,4,0
+2023-01-14,The Sun,0,1
+2023-01-14,The Times and The Sunday Times,5,1
+2023-01-15,Daily Mail and Mail on Sunday,3,0
+2023-01-15,Daily Mirror,0,2
+2023-01-15,Metro,0,0
+2023-01-15,The Daily Telegraph,0,0
+2023-01-15,The Guardian,2,0
+2023-01-15,The Independent,5,5
+2023-01-15,The Sun,1,0
+2023-01-15,The Times and The Sunday Times,2,1
+2023-01-16,Daily Mail and Mail on Sunday,0,1
+2023-01-16,Daily Mirror,3,0
+2023-01-16,Metro,1,0
+2023-01-16,The Daily Telegraph,2,0
+2023-01-16,The Guardian,4,0
+2023-01-16,The Independent,13,6
+2023-01-16,The Sun,1,1
+2023-01-16,The Times and The Sunday Times,1,1
+2023-01-17,Daily Mail and Mail on Sunday,5,0
+2023-01-17,Daily Mirror,5,0
+2023-01-17,Metro,3,0
+2023-01-17,The Daily Telegraph,2,2
+2023-01-17,The Guardian,2,4
+2023-01-17,The Independent,9,2
+2023-01-17,The Sun,7,1
+2023-01-17,The Times and The Sunday Times,3,2
+2023-01-18,Daily Mail and Mail on Sunday,2,1
+2023-01-18,Daily Mirror,2,0
+2023-01-18,Metro,1,0
+2023-01-18,The Daily Telegraph,3,1
+2023-01-18,The Guardian,5,1
+2023-01-18,The Independent,19,8
+2023-01-18,The Sun,1,0
+2023-01-18,The Times and The Sunday Times,4,3
+2023-01-19,Daily Mail and Mail on Sunday,5,0
+2023-01-19,Daily Mirror,3,0
+2023-01-19,Metro,1,0
+2023-01-19,The Daily Telegraph,4,1
+2023-01-19,The Guardian,1,2
+2023-01-19,The Independent,8,3
+2023-01-19,The Sun,1,1
+2023-01-19,The Times and The Sunday Times,5,0
+2023-01-20,Daily Mail and Mail on Sunday,0,2
+2023-01-20,Daily Mirror,1,1
+2023-01-20,Metro,0,0
+2023-01-20,The Daily Telegraph,0,1
+2023-01-20,The Guardian,4,1
+2023-01-20,The Independent,5,3
+2023-01-20,The Sun,1,0
+2023-01-20,The Times and The Sunday Times,1,2
+2023-01-21,Daily Mail and Mail on Sunday,2,0
+2023-01-21,Daily Mirror,5,0
+2023-01-21,Metro,0,0
+2023-01-21,The Daily Telegraph,2,1
+2023-01-21,The Guardian,1,0
+2023-01-21,The Independent,2,1
+2023-01-21,The Sun,2,0
+2023-01-21,The Times and The Sunday Times,3,0
+2023-01-22,Daily Mail and Mail on Sunday,1,0
+2023-01-22,Daily Mirror,0,0
+2023-01-22,Metro,0,0
+2023-01-22,The Daily Telegraph,0,0
+2023-01-22,The Guardian,0,1
+2023-01-22,The Independent,5,0
+2023-01-22,The Sun,0,0
+2023-01-22,The Times and The Sunday Times,0,0
+2023-01-23,Daily Mail and Mail on Sunday,0,0
+2023-01-23,Daily Mirror,0,1
+2023-01-23,Metro,0,0
+2023-01-23,The Daily Telegraph,1,0
+2023-01-23,The Guardian,3,1
+2023-01-23,The Independent,11,4
+2023-01-23,The Sun,0,0
+2023-01-23,The Times and The Sunday Times,0,1
+2023-01-24,Daily Mail and Mail on Sunday,1,0
+2023-01-24,Daily Mirror,0,0
+2023-01-24,Metro,2,0
+2023-01-24,The Daily Telegraph,1,0
+2023-01-24,The Guardian,1,1
+2023-01-24,The Independent,3,1
+2023-01-24,The Sun,0,0
+2023-01-24,The Times and The Sunday Times,2,0
+2023-01-25,Daily Mail and Mail on Sunday,3,0
+2023-01-25,Daily Mirror,0,0
+2023-01-25,Metro,1,0
+2023-01-25,The Daily Telegraph,2,0
+2023-01-25,The Guardian,5,1
+2023-01-25,The Independent,3,4
+2023-01-25,The Sun,1,3
+2023-01-25,The Times and The Sunday Times,3,1
+2023-01-26,Daily Mail and Mail on Sunday,0,1
+2023-01-26,Daily Mirror,2,1
+2023-01-26,Metro,0,0
+2023-01-26,The Daily Telegraph,1,1
+2023-01-26,The Guardian,3,1
+2023-01-26,The Independent,5,2
+2023-01-26,The Sun,1,0
+2023-01-26,The Times and The Sunday Times,0,0
+2023-01-27,Daily Mail and Mail on Sunday,1,1
+2023-01-27,Daily Mirror,4,2
+2023-01-27,Metro,0,0
+2023-01-27,The Daily Telegraph,2,0
+2023-01-27,The Guardian,0,1
+2023-01-27,The Independent,4,4
+2023-01-27,The Sun,0,0
+2023-01-27,The Times and The Sunday Times,4,1
+2023-01-28,Daily Mail and Mail on Sunday,2,0
+2023-01-28,Daily Mirror,1,0
+2023-01-28,Metro,0,0
+2023-01-28,The Daily Telegraph,3,3
+2023-01-28,The Guardian,0,1
+2023-01-28,The Independent,1,1
+2023-01-28,The Sun,0,0
+2023-01-28,The Times and The Sunday Times,0,5
+2023-01-29,Daily Mail and Mail on Sunday,1,0
+2023-01-29,Daily Mirror,4,0
+2023-01-29,Metro,0,0
+2023-01-29,The Daily Telegraph,0,0
+2023-01-29,The Guardian,2,1
+2023-01-29,The Independent,0,0
+2023-01-29,The Sun,1,1
+2023-01-29,The Times and The Sunday Times,0,1
+2023-01-30,Daily Mail and Mail on Sunday,1,1
+2023-01-30,Daily Mirror,1,2
+2023-01-30,Metro,0,1
+2023-01-30,The Daily Telegraph,0,0
+2023-01-30,The Guardian,5,0
+2023-01-30,The Independent,12,6
+2023-01-30,The Sun,1,0
+2023-01-30,The Times and The Sunday Times,4,0
+2023-01-31,Daily Mail and Mail on Sunday,3,0
+2023-01-31,Daily Mirror,3,0
+2023-01-31,Metro,1,1
+2023-01-31,The Daily Telegraph,4,2
+2023-01-31,The Guardian,7,1
+2023-01-31,The Independent,21,7
+2023-01-31,The Sun,2,0
+2023-01-31,The Times and The Sunday Times,2,1
+2023-02-01,Daily Mail and Mail on Sunday,4,0
+2023-02-01,Daily Mirror,1,2
+2023-02-01,Metro,3,0
+2023-02-01,The Daily Telegraph,3,1
+2023-02-01,The Guardian,6,3
+2023-02-01,The Independent,21,9
+2023-02-01,The Sun,3,0
+2023-02-01,The Times and The Sunday Times,9,0
+2023-02-02,Daily Mail and Mail on Sunday,3,5
+2023-02-02,Daily Mirror,4,0
+2023-02-02,Metro,1,0
+2023-02-02,The Daily Telegraph,2,3
+2023-02-02,The Guardian,0,2
+2023-02-02,The Independent,9,11
+2023-02-02,The Sun,2,0
+2023-02-02,The Times and The Sunday Times,3,1
+2023-02-03,Daily Mail and Mail on Sunday,3,0
+2023-02-03,Daily Mirror,3,0
+2023-02-03,Metro,1,0
+2023-02-03,The Daily Telegraph,0,2
+2023-02-03,The Guardian,2,1
+2023-02-03,The Independent,6,3
+2023-02-03,The Sun,0,2
+2023-02-03,The Times and The Sunday Times,0,1
+2023-02-04,Daily Mail and Mail on Sunday,2,0
+2023-02-04,Daily Mirror,2,0
+2023-02-04,Metro,0,0
+2023-02-04,The Daily Telegraph,0,1
+2023-02-04,The Guardian,0,0
+2023-02-04,The Independent,3,2
+2023-02-04,The Sun,0,1
+2023-02-04,The Times and The Sunday Times,2,1
+2023-02-05,Daily Mail and Mail on Sunday,2,0
+2023-02-05,Daily Mirror,1,0
+2023-02-05,Metro,0,0
+2023-02-05,The Daily Telegraph,0,0
+2023-02-05,The Guardian,2,1
+2023-02-05,The Independent,7,0
+2023-02-05,The Sun,0,0
+2023-02-05,The Times and The Sunday Times,2,0
+2023-02-06,Daily Mail and Mail on Sunday,3,0
+2023-02-06,Daily Mirror,2,0
+2023-02-06,Metro,1,0
+2023-02-06,The Daily Telegraph,1,1
+2023-02-06,The Guardian,1,0
+2023-02-06,The Independent,8,5
+2023-02-06,The Sun,1,1
+2023-02-06,The Times and The Sunday Times,3,0
+2023-02-07,Daily Mail and Mail on Sunday,1,0
+2023-02-07,Daily Mirror,4,0
+2023-02-07,Metro,1,0
+2023-02-07,The Daily Telegraph,0,0
+2023-02-07,The Guardian,2,1
+2023-02-07,The Independent,5,4
+2023-02-07,The Sun,1,0
+2023-02-07,The Times and The Sunday Times,2,1
+2023-02-08,Daily Mail and Mail on Sunday,1,0
+2023-02-08,Daily Mirror,0,0
+2023-02-08,Metro,0,0
+2023-02-08,The Daily Telegraph,0,0
+2023-02-08,The Guardian,0,1
+2023-02-08,The Independent,4,12
+2023-02-08,The Sun,1,1
+2023-02-08,The Times and The Sunday Times,1,1
+2023-02-09,Daily Mail and Mail on Sunday,0,0
+2023-02-09,Daily Mirror,3,0
+2023-02-09,Metro,0,0
+2023-02-09,The Daily Telegraph,2,2
+2023-02-09,The Guardian,1,1
+2023-02-09,The Independent,2,9
+2023-02-09,The Sun,0,0
+2023-02-09,The Times and The Sunday Times,0,0
+2023-02-10,Daily Mail and Mail on Sunday,1,2
+2023-02-10,Daily Mirror,3,0
+2023-02-10,Metro,0,0
+2023-02-10,The Daily Telegraph,0,1
+2023-02-10,The Guardian,1,2
+2023-02-10,The Independent,3,6
+2023-02-10,The Sun,0,0
+2023-02-10,The Times and The Sunday Times,1,3
+2023-02-11,Daily Mail and Mail on Sunday,1,0
+2023-02-11,Daily Mirror,0,0
+2023-02-11,Metro,0,0
+2023-02-11,The Daily Telegraph,1,0
+2023-02-11,The Guardian,2,0
+2023-02-11,The Independent,2,1
+2023-02-11,The Sun,0,0
+2023-02-11,The Times and The Sunday Times,2,1
+2023-02-12,Daily Mail and Mail on Sunday,1,0
+2023-02-12,Daily Mirror,0,0
+2023-02-12,Metro,0,0
+2023-02-12,The Daily Telegraph,0,0
+2023-02-12,The Guardian,0,0
+2023-02-12,The Independent,3,1
+2023-02-12,The Sun,0,0
+2023-02-12,The Times and The Sunday Times,1,0
+2023-02-13,Daily Mail and Mail on Sunday,1,1
+2023-02-13,Daily Mirror,0,0
+2023-02-13,Metro,1,0
+2023-02-13,The Daily Telegraph,1,0
+2023-02-13,The Guardian,0,1
+2023-02-13,The Independent,1,4
+2023-02-13,The Sun,1,0
+2023-02-13,The Times and The Sunday Times,1,0
+2023-02-14,Daily Mail and Mail on Sunday,0,0
+2023-02-14,Daily Mirror,1,2
+2023-02-14,Metro,0,1
+2023-02-14,The Daily Telegraph,2,0
+2023-02-14,The Guardian,2,2
+2023-02-14,The Independent,5,2
+2023-02-14,The Sun,0,0
+2023-02-14,The Times and The Sunday Times,0,0
+2023-02-15,Daily Mail and Mail on Sunday,2,0
+2023-02-15,Daily Mirror,0,0
+2023-02-15,Metro,1,0
+2023-02-15,The Daily Telegraph,0,0
+2023-02-15,The Guardian,3,1
+2023-02-15,The Independent,7,1
+2023-02-15,The Sun,0,0
+2023-02-15,The Times and The Sunday Times,1,0
+2023-02-16,Daily Mail and Mail on Sunday,1,0
+2023-02-16,Daily Mirror,1,0
+2023-02-16,Metro,0,0
+2023-02-16,The Daily Telegraph,2,0
+2023-02-16,The Guardian,2,1
+2023-02-16,The Independent,7,7
+2023-02-16,The Sun,0,1
+2023-02-16,The Times and The Sunday Times,1,3
+2023-02-17,Daily Mail and Mail on Sunday,1,2
+2023-02-17,Daily Mirror,1,1
+2023-02-17,Metro,3,0
+2023-02-17,The Daily Telegraph,2,1
+2023-02-17,The Guardian,1,4
+2023-02-17,The Independent,5,4
+2023-02-17,The Sun,2,0
+2023-02-17,The Times and The Sunday Times,2,3
+2023-02-18,Daily Mail and Mail on Sunday,1,0
+2023-02-18,Daily Mirror,0,0
+2023-02-18,Metro,0,0
+2023-02-18,The Daily Telegraph,0,1
+2023-02-18,The Guardian,2,0
+2023-02-18,The Independent,2,1
+2023-02-18,The Sun,0,0
+2023-02-18,The Times and The Sunday Times,0,0
+2023-02-19,Daily Mail and Mail on Sunday,0,0
+2023-02-19,Daily Mirror,0,0
+2023-02-19,Metro,0,0
+2023-02-19,The Daily Telegraph,0,0
+2023-02-19,The Guardian,0,0
+2023-02-19,The Independent,3,2
+2023-02-19,The Sun,1,0
+2023-02-19,The Times and The Sunday Times,5,1
+2023-02-20,Daily Mail and Mail on Sunday,1,0
+2023-02-20,Daily Mirror,1,0
+2023-02-20,Metro,1,0
+2023-02-20,The Daily Telegraph,1,2
+2023-02-20,The Guardian,1,2
+2023-02-20,The Independent,5,5
+2023-02-20,The Sun,1,0
+2023-02-20,The Times and The Sunday Times,1,0
