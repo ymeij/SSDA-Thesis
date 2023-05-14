@@ -2,6 +2,7 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 from pprint import pp
+from collections import Counter
 
 # Granger preprocessing
 granger_data = pd.read_csv("granger_var3_graph.csv")
@@ -61,10 +62,25 @@ print(edges[0:5])
 
 # Graph signficant Granger relationships
 
-# G = nx.DiGraph()
-G = nx.MultiDiGraph()
+G = nx.DiGraph()
+# G = nx.MultiDiGraph()
 G.add_edges_from(edges)
 pos = nx.circular_layout(G)
+graph_edges = G.edges()
+
+# Get edge counts for colouring bidirectionality.
+
+edge_counts = Counter()
+
+
+for edge in graph_edges:
+    edge_counts[edge] += 1
+    # Add the inverse edge too
+    edge_counts[(edge[1], edge[0])] += 1
+
+edge_colours = ["green" if edge_counts[edge] > 1 else "purple" for edge in graph_edges]
+
+# Calculate the label offsets
 
 x_abs = 0.8
 x_rel = 0.3
@@ -120,6 +136,7 @@ nx.draw(
     min_target_margin=20,
     min_source_margin=21,
     node_color=colour_map,
+    edge_color=edge_colours,
 )
 # connectionstyle="arc3,rad=0.1")
 
@@ -139,4 +156,14 @@ nx.draw_networkx_labels(G, offset_pos, font_size=8)
 plt.show()
 plt.xlim((-1, 1))
 plt.ylim((-1, 1))
+
+
+# Create a legend for the edge arrow colors
+legend_colours = ["green", "purple"]
+legend_labels = ["Bidirectional", "Unidirectional"]
+legend_handles = [
+    plt.Line2D([], [], color=legend_colours[i], label=legend_labels[i])
+    for i in range(len(legend_colours))
+]
+plt.legend(handles=legend_handles)
 plt.savefig("relationship_graph.png", bbox_inches="tight", dpi=1200)
